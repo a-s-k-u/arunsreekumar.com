@@ -1,0 +1,50 @@
+[
+    {
+        "name" : "Technology",
+        "system" : "Technology",
+        "url" : "",
+        "avatar" : "",
+        "isActive" : true,
+        "messages" : []
+    },
+    {
+        "name" : "Life Hacks",
+        "system" : "LifeHacks",
+        "url" : "",
+        "avatar" : "",
+        "isActive" : true,
+        "messages" : []
+    },
+    {
+        "name" : "Skills",
+        "system" : "Skills",
+        "url" : "",
+        "avatar" : "",
+        "isActive" : true,
+        "messages" : []
+    },
+    {
+        "name" : "Work Experience",
+        "system" : "WorkExperience",
+        "url" : "",
+        "avatar" : "",
+        "isActive" : true,
+        "messages" : []
+    },
+    {
+        "name" : "Achievements & Awards",
+        "system" : "Achievements",
+        "url" : "",
+        "avatar" : "",
+        "isActive" : true,
+        "messages" : []
+    },
+    {
+        "name" : "Innovation",
+        "system" : "Innovation",
+        "url" : "",
+        "avatar" : "",
+        "isActive" : true,
+        "messages" : []
+    }
+]
