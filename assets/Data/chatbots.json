@@ -1,9 +1,41 @@
 [
     {
-        "name" : "Technology",
-        "system" : "Technology",
+        "name" : "Career",
+        "system" : "Career",
+        "url" : "",
+        "avatar" : "http://arunsreekumar.com/assets/Images/career.png",
+        "isActive" : true,
+        "messages" : []
+    },
+    {
+        "name" : "Hobby Stuff",
+        "system" : "HobbyStuff",
+        "url" : "",
+        "avatar" : "http://arunsreekumar.com/assets/Images/hobby.png",
+        "isActive" : true,
+        "messages" : []
+    },
+    {
+        "name" : "Photography",
+        "system" : "Photography",
         "url" : "",
         "avatar" : "",
+        "isActive" : true,
+        "messages" : []
+    },
+    {
+        "name" : "Passtime",
+        "system" : "Passtime",
+        "url" : "",
+        "avatar" : "http://arunsreekumar.com/assets/Images/passtime.png",
+        "isActive" : true,
+        "messages" : []
+    },
+    {
+        "name" : "Technology Hacks",
+        "system" : "TechnologyHacks",
+        "url" : "",
+        "avatar" : "http://arunsreekumar.com/assets/Images/techhacks.jpg",
         "isActive" : true,
         "messages" : []
     },
@@ -11,37 +43,29 @@
         "name" : "Life Hacks",
         "system" : "LifeHacks",
         "url" : "",
-        "avatar" : "",
+        "avatar" : "http://arunsreekumar.com/assets/Images/lifehacks.jpg",
         "isActive" : true,
         "messages" : []
     },
     {
-        "name" : "Skills",
-        "system" : "Skills",
+        "name" : "My Youtube Channel",
+        "system" : "YoutubeChannel",
+        "url" : "",
+        "avatar" : "http://arunsreekumar.com/assets/Images/youtube.png",
+        "isActive" : true,
+        "messages" : []
+    },
+    {
+        "name" : "Food",
+        "system" : "Food",
         "url" : "",
         "avatar" : "",
         "isActive" : true,
         "messages" : []
     },
     {
-        "name" : "Work Experience",
-        "system" : "WorkExperience",
-        "url" : "",
-        "avatar" : "",
-        "isActive" : true,
-        "messages" : []
-    },
-    {
-        "name" : "Achievements & Awards",
-        "system" : "Achievements",
-        "url" : "",
-        "avatar" : "",
-        "isActive" : true,
-        "messages" : []
-    },
-    {
-        "name" : "Innovation",
-        "system" : "Innovation",
+        "name" : "CurrentAffairs",
+        "system" : "CurrentAffairs",
         "url" : "",
         "avatar" : "",
         "isActive" : true,
