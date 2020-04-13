@@ -1,0 +1,20 @@
+{
+    "conversationName" : "anchamPathira",
+    "targetParam"      : "Dummy",
+    "targetValue"      : "",
+    "continueOnMatch"  : false,
+    "confidence"       : 1,
+    "validationMessage": "How can I help you ?",
+    "matches":[
+        {"matchPattern":"(.*)","matchType":"inline", "matchParam": "","matchVal":"dummy","matchGroup":1 }
+    ],
+    "vocabulary":[
+    ],
+    "subConversations":[
+    ],
+    "messages":[
+      {"id" :1,"timeAdded" : "","messageText": "it was good. I think they did a decent job.","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "hey","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "hurray </br> Then, Crazy Stupid love - watch this if you don't know what else to do, just like I do...","fromUser": ""}
+    ]
+}
