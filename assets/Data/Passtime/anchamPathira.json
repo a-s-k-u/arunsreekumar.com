@@ -13,8 +13,26 @@
     "subConversations":[
     ],
     "messages":[
-      {"id" :1,"timeAdded" : "","messageText": "it was good. I think they did a decent job.","fromUser": ""},
-      {"id" :1,"timeAdded" : "","messageText": "hey","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "it was good. I think they did a pretty decent job.","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "mmmmm","fromUser": "ME"},
+      {"id" :1,"timeAdded" : "","messageText": "but, a few things didn't make sense to me at all...like, it kinda portrays Kerala Police as some rookie when it comes to technology ","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "like, do they really use Skype for official video conferencing ?","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "Why not? Skype calls are encrypted right?","fromUser": "ME"},
+      {"id" :1,"timeAdded" : "","messageText": "Yeah! But, don't think they offer end to end encryption. Which means someone at Microsoft can still peek into the data or record every conversation if they want. And I'm not really sure how comfortable any Govt Org would be with that?","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "It's weird, but, I think we don't care really... :-D...Look at our <a href='https://twitter.com/ANI/status/1245253164288208896?s=20'>defense minister having calls</a> using Zoom app that too doesn't offer end to end encryption too.","fromUser": "ME"},
+      {"id" :1,"timeAdded" : "","messageText": "Also, especially when Zoom app has other issues with regard to their security. ","fromUser": "ME"},
+      {"id" :1,"timeAdded" : "","messageText": "Yeah! I saw that. But, that's probably a one-off right ? I think Indian Govt uses Vidyo <a href='https://www.hindustantimes.com/india-news/not-zoom-vidyo-is-govt-s-app-of-choice-during-covid-19-lockdown/story-8195JqwxqD5rQ7oORoxSuN.html'></a> for official comms. ","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "Is that end to end encrypted ? ","fromUser": "ME"},
+      {"id" :1,"timeAdded" : "","messageText": "Yeah! but, doesn't really matter too. coz, it will be hosted by Govt itself and Govt owns the data ; and not some Microsoft or Zoom.","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "Oh! wait a sec. The software that runs on the Govt server is developed by a US based firm, and it is closed sourced, which means we have no idea how it works or review how it works.","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "It still escapes me, why we are not using open source solution like <a href='https://jitsi.org/'>Jitsi</a>  or <a href='https://wire.com/en/'>Wire</a> ?","fromUser": "ME"},
+      {"id" :1,"timeAdded" : "","messageText": "Also, our Govt officials should be moving away from whatsapp and use <a href='https://signal.org/'>Signal</a> instead" ,"fromUser": "ME"},
+      {"id" :1,"timeAdded" : "","messageText": "They are just free, open source and fast","fromUser": "ME"},
+      {"id" :1,"timeAdded" : "","messageText": "True. But, remember, Open source doesn't really mean it's foolproof. Remember <a href='https://www.csoonline.com/article/3223203/what-is-the-heartbleed-bug-how-does-it-work-and-how-was-it-fixed.html'>Heartbleed OpenSSL exploit</a> in 2014 ?","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "So, I maybe still happy with using Vidyo, provided they audit it properly.","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "Right!","fromUser": "ME"},
+      {"id" :1,"timeAdded" : "","messageText": "Nevertheless, I don't think that's how that guy in the movie hacked the CCTV cameras. He's got no insider working for Microsoft","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "yeah! I think the main exploit he did was to hack CCTV camera to cover his tracks and also hack the Police network to peek on their conversation.","fromUser": "ME"},
       {"id" :1,"timeAdded" : "","messageText": "hurray </br> Then, Crazy Stupid love - watch this if you don't know what else to do, just like I do...","fromUser": ""}
     ]
 }
