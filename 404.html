@@ -2,9 +2,13 @@
 
     const path = window.location.pathname;
 
-    localStorage.setItem('path', path);
-    console.log("path from 404 html - " + localStorage.getItem('path'));
-    alert("path from 404 html - " + localStorage.getItem('path'));
+    var re = new RegExp('/chats/\\w+/\\w+'); 
+    var isValidURL = re.test(path);
+    if (isValidURL){
+        localStorage.setItem('path', path);
+    }
+    //console.log("path from 404 html - " + localStorage.getItem('path'));
+    //alert("path from 404 html - " + localStorage.getItem('path'));
 
     window.location.href='../';
 
