@@ -29,7 +29,7 @@
     ],
     "messages":[
       {"id" :1,"timeAdded" : "","messageText": "Well, this is the most recent pic I've got.","fromUser": ""},
-      {"id" :1,"timeAdded" : "","messageText": "This was from 2019 <div><img width='100%' src='http://arunsreekumar.com/assets/Images/career.png'/></div>","fromUser": ""},
-      {"id" :1,"timeAdded" : "","messageText": "hi how are you <div><img src='http://arunsreekumar.com/assets/Images/career.png'/></div> ","fromUser": "ME"}
+      {"id" :1,"timeAdded" : "","messageText": "This was from 2019 <div><img width='100%' src='https://arunsreekumar.com/assets/Images/career.png'/></div>","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "hi how are you <div><img src='https://arunsreekumar.com/assets/Images/career.png'/></div> ","fromUser": "ME"}
     ]
 }
