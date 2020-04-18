@@ -1,0 +1,35 @@
+{
+    "conversationName" : "root",
+    "targetParam"      : "mLoadConversation",
+    "targetValue"      : "",
+    "continueOnMatch"  : false,
+    "confidence"       : 1,
+    "validationMessage": "How can I help you ?",
+    "matches":[
+        {"matchPattern":"Open CTP","matchType":"static", "matchParam": "","matchVal":"2020_PICS","matchGroup":0 }
+    ],
+    "vocabulary":[
+        {"text" : "Launch app", "keyword":"LAUNCH_APP"}
+    ],
+    "subConversations":[
+        {
+          "conversationName" : "sub conversion to find bot name",
+          "targetParam"      : "BOT_NAME",
+          "targetValue"      : "",
+          "continueOnMatch"  : false,
+          "confidence"       : 1,
+          "validationMessage": "Please let me know what you are trying to do. eg: launch app.",
+          "matches":[
+            {"matchPattern":"Launch app","matchType":"static", "matchParam": "CONVERSATION_NAME","matchVal":"LAUNCH_APP","matchGroup":0}
+          ],
+          "vocabulary":[
+            {"text" : "Launch app", "keyword":"LAUNCH_APP"}
+          ]
+        }
+    ],
+    "messages":[
+      {"id" :1,"timeAdded" : "","messageText": "Well, this is the most recent pic I've got.","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "This was from 2019 <div><img width='100%' src='https://arunsreekumar.com/assets/Images/career.png'/></div>","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "hi how are you <div><img src='https://arunsreekumar.com/assets/Images/career.png'/></div> ","fromUser": "ME"}
+    ]
+}

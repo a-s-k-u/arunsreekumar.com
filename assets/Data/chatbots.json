@@ -1,0 +1,101 @@
+[
+    {
+        "name" : "Career",
+        "system" : "Career",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
+        "isActive" : true,
+        "statusMessage" : "Tell me a bit about yourself",
+        "messages" : []
+    },
+    {
+        "name" : "Corona",
+        "system" : "Corona",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
+        "isActive" : true,
+        "statusMessage" : "How are you putting up so far?",
+        "messages" : []
+    },
+    {
+        "name" : "Hobby Stuff",
+        "system" : "HobbyStuff",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/hobby.png",
+        "isActive" : true,
+        "statusMessage" : "That's crazy stuff mate.",
+        "messages" : []
+    },
+    {
+        "name" : "Photography",
+        "system" : "Photography",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
+        "isActive" : true,
+        "statusMessage" : "Nice shot you got there",
+        "messages" : []
+    },
+    {
+        "name" : "Passtime",
+        "system" : "Passtime",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/passtime.png",
+        "isActive" : true,
+        "statusMessage" : "Please take me seriously...",
+        "messages" : []
+    },
+    {
+        "name" : "Technology Hacks",
+        "system" : "TechnologyHacks",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
+        "isActive" : true,
+        "statusMessage" : "Didn't know that. That's handy.",
+        "messages" : []
+    },
+    {
+        "name" : "Life Hacks",
+        "system" : "LifeHacks",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
+        "isActive" : true,
+        "statusMessage" : "Is it for real?",
+        "messages" : []
+    },
+    {
+        "name" : "My Youtube Channel",
+        "system" : "YoutubeChannel",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/youtube.png",
+        "isActive" : true,
+        "statusMessage" : "Got a new video out there",
+        "messages" : []
+    },
+    {
+        "name" : "Food",
+        "system" : "Food",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
+        "isActive" : true,
+        "statusMessage" : "Diet up",
+        "messages" : []
+    },
+    {
+        "name" : "CurrentAffairs",
+        "system" : "CurrentAffairs",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
+        "isActive" : true,
+        "statusMessage" : "So, this happened.",
+        "messages" : []
+    },
+    {
+        "name" : "MemeMaker",
+        "system" : "MemeMaker",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
+        "isActive" : true,
+        "statusMessage" : "Let's have a laugh",
+        "messages" : []
+    }
+]
