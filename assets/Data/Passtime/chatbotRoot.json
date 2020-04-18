@@ -15,8 +15,8 @@
     "subConversations":[
     ],
     "messages":[
-      {"id" :1,"timeAdded" : "","messageText": "Let's not forget that there are a lot of companies, people out there whose lives depends entirely on your boredom. So, make sure you get bored more often than less so that these people can keep their job. <a style='color:#99ccff' href='javascript:callAngularFunction(\"foo\");'>-ask</a>","fromUser": ""},
-      {"id" :1,"timeAdded" : "","messageText": "watched <u>anchaam pathira</u> movie <img width='100%' src='https://arunsreekumar.com/assets/Images/passtime/ancham-pathira.jpg'/> </br></br> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"How was ancham pathira movie ?\");'>askU</button>","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "Let's not forget that there are a lot of companies, people out there whose lives entirely depends on our boredom. So, let's make sure that we get bored more often than less so that these people can keep their job. I'm doing my part by watching all those movies and listening to those songs and shitting it out here. <img width='100%' src='https://arunsreekumar.com/assets/Images/passtime/intro.jpg'/><a style='color:#99ccff' href='javascript:callAngularFunction(\"foo\");'>-ask</a>","fromUser": ""},
+      {"id" :0,"timeAdded" : "","messageText": "watched <u>anchaam pathira</u> movie <img width='100%' src='https://arunsreekumar.com/assets/Images/passtime/ancham-pathira.jpg'/> </br></br> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"How was ancham pathira movie ?\");'>askU</button>","fromUser": ""},
       {"id" :1,"timeAdded" : "","messageText": "","fromUser": "ME"}
     ]
 }
