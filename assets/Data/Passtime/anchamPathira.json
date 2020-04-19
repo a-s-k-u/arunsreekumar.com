@@ -48,7 +48,11 @@
       {"id" :1,"timeAdded" : "","messageText": "So, you are saying it is not ? :-D ","fromUser": "ME"},
       {"id" :1,"timeAdded" : "","messageText": "Okay. Imagine I stole the crown from Paul Barber.","fromUser": ""},
       {"id" :1,"timeAdded" : "","messageText": "And I need to sell this now.","fromUser": ""},
-      {"id" :1,"timeAdded" : "","messageText": "But, I can't do it through Amazon or Flipkart or Facebook Market place. coz, these guys record the ip of all incoming requests, and can would be more than willing to share this info with cops, and BSNL can easily track my router if they are given the IP and time.","fromUser": ""},
-      {"id" :1,"timeAdded" : "","messageText": "So, one option is for me to use VPN.","fromUser": ""}
+      {"id" :1,"timeAdded" : "","messageText": "But, I can't do it through Amazon or Flipkart or Facebook Market place. coz, they know my IP and with a little bit of help from ISP (BSNL or Asianet) cops can easily track my router and location.","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "So, one option is for me to use VPN. That way I don't send the request directly to FB. But, I send the request to a VPN server, and the server copies my request and sends it to FB. So, let's say, if an investigation happens, they start from the IP recorded at FB, but, stops at the VPN server.","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "Again, there is one problem. My customers. What if they don't use a VPN. In that case, cops can easily track them, and reach me. So, the solution is a network of VPN Servers, and every request hops from one place to other.","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "Coz, of the privacy offered, it is sometimes called dark web. Nothing fancy about it.","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "Cool...I was watching this video and his thoughts were in similar lines. <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/H1-ApErWRaU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>","fromUser": "ME"},
+      {"id" :1,"timeAdded" : "","messageText": "And, here is the favourite dialogue from the movie ...എൻ്റെ കഥയും എൻ്റെ പ്രതികാരവും എല്ലാം എൻ്റെ  സ്വകാര്യത ആണ് ","fromUser": ""}
     ]
 }
