@@ -1,0 +1,21 @@
+{
+    "conversationName" : "root",
+    "targetParam"      : "mLoadConversation",
+    "targetValue"      : "",
+    "continueOnMatch"  : false,
+    "confidence"       : 1,
+    "validationMessage": "How can I help you ?",
+    "matches":[
+        {"matchPattern":"Akaash Singh Comedy","matchType":"inline", "matchParam": "","matchVal":"akaashSingh","matchGroup":1 },
+        {"matchPattern":"Open CTP","matchType":"static", "matchParam": "","matchVal":"2020_PICS","matchGroup":0 }
+    ],
+    "vocabulary":[
+        {"text" : "anchaam", "keyword":"ancham"}
+    ],
+    "subConversations":[
+    ],
+    "messages":[
+      {"id" :1,"timeAdded" : "","messageText": "You can Check Akaash Singh Comedy <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"show me akaash singh comedy\");'> >>ask this</button>","fromUser": ""},
+      {"id" :1,"timeAdded" : "","messageText": "yoga class","fromUser": ""}
+    ]
+}
