@@ -1,0 +1,29 @@
+{
+    "conversationName" : "youtubechat",
+    "targetParam"      : "youtubeId",
+    "targetValue"      : "",
+    "continueOnMatch"  : false,
+    "confidence"       : 1,
+    "validationMessage": "How can I help you ?",
+    "matches":[
+        {"matchPattern":"(.*)","matchType":"inline", "matchParam": "","matchVal":"MSqQaCZvqJ8","matchGroup":1 }
+    ],
+    "vocabulary":[
+    ],
+    "subConversations":[
+    ],
+    "messages":[
+      {"id" :3,"timeAdded" : "","messageText": "He is still not laughing. Everybody else is laughing. He's still being shitty.","fromUser": "akaashsingh"},
+      {"id" :8,"timeAdded" : "","messageText": "They all agree. You are obviously wrong.","fromUser": "akaashsingh"},
+      {"id" :14,"timeAdded" : "","messageText": "I'm glad you guys disagree. Normally white people feel this guilt they have to disagree with a black person.I'm glad you guys don't care.","fromUser": "akaashsingh"},
+      {"id" :27,"timeAdded" : "","messageText": "If we talk about Indians..","fromUser": "ME"},
+      {"id" :30,"timeAdded" : "","messageText": "I don't care. yeah! Feel free. Go outside. talk about slumdog. I don't give a fuck. haaaa!","fromUser": "akaashsingh"},
+      {"id" :36,"timeAdded" : "","messageText": "How sexy do you you think I'm. haaaa! no one cares. We don't all have time to be serious in this world.I'm going to die soon.","fromUser": "akaashsingh"},
+      {"id" :44,"timeAdded" : "","messageText": "I'm hindu. So, I get another life. You don't.","fromUser": "akaashsingh"},
+      {"id" :49,"timeAdded" : "","messageText": "He still didn't get it. Barack Obama...whatsuup ?","fromUser": "akaashsingh"},
+      {"id" :53,"timeAdded" : "","messageText": "Everybody's on my side. Nobody's on your side.","fromUser": "akaashsingh"},
+      {"id" :57,"timeAdded" : "","messageText": "Feel love","fromUser": "akaashsingh"},
+      {"id" :80,"timeAdded" : "","messageText": "Blacks...  I don't hold you anything. I've got no white guilt.","fromUser": "akaashsingh"},
+      {"id" :87,"timeAdded" : "","messageText": "Your friends are embarrased for you.","fromUser": "akaashsingh"}
+    ]
+}

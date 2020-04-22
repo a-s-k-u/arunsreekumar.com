@@ -6,8 +6,8 @@
     "confidence"       : 1,
     "validationMessage": "How can I help you ?",
     "matches":[
-        {"matchPattern":"Akaash Singh Comedy","matchType":"inline", "matchParam": "","matchVal":"akaashSingh","matchGroup":1 },
-        {"matchPattern":"Open CTP","matchType":"static", "matchParam": "","matchVal":"2020_PICS","matchGroup":0 }
+        {"matchPattern":"Akaash Singh","matchType":"static", "matchParam": "","matchVal":"akaashSingh","matchGroup":0 },
+        {"matchPattern":"Akaash Singh Eviscerating a Heckler","matchType":"static", "matchParam": "","matchVal":"akaashSingh_vs_heckler","matchGroup":0 }
     ],
     "vocabulary":[
         {"text" : "anchaam", "keyword":"ancham"}
