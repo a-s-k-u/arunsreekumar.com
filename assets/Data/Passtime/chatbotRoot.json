@@ -16,6 +16,6 @@
     ],
     "messages":[
       {"id" :1,"timeAdded" : "","messageText": "okay... I watch movies, series and makes my own interpretations...","fromUser": ""},
-      {"id" :0,"timeAdded" : "","messageText": "latest : watched <u>anchaam pathira</u> movie and thought the real culprit is someone else. This is probably how the conversation migh have happened.</br> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"How was ancham pathira movie ?\");'> show real conversation</button>","fromUser": ""}
+      {"id" :0,"timeAdded" : "","messageText": "latest : watched <u>anchaam pathira</u> movie and thought the real culprit is someone else. </br> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"show the real conversation in ancham pathira movie between Dr benjamin Louis and Anwar Hussain\");'> show real conversation</button>","fromUser": ""}
     ]
 }
