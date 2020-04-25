@@ -15,7 +15,7 @@
     "subConversations":[
     ],
     "messages":[
-      {"id" :1,"timeAdded" : "","messageText": "Let's not forget that there are a lot of companies, people out there whose lives entirely depends on our boredom. So, that's my excuse for my hours on Netflix, Amazon Prime and Spotify. What's urs ? <img width='100%' src='https://arunsreekumar.com/assets/Images/passtime/intro.jpg'/>","fromUser": ""},
-      {"id" :0,"timeAdded" : "","messageText": "latest : watched <u>anchaam pathira</u> movie <img width='100%' src='https://arunsreekumar.com/assets/Images/passtime/ancham-pathira.jpg'/> </br></br> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"How was ancham pathira movie ?\");'>askU (ask Underlined)</button>","fromUser": ""}
+      {"id" :1,"timeAdded" : "","messageText": "okay... I watch movies, series and makes my own interpretations...","fromUser": ""},
+      {"id" :0,"timeAdded" : "","messageText": "latest : watched <u>anchaam pathira</u> movie and thought the real culprit is someone else and not Benjamin Louis. This is probably how the conversation migh have happened.</br> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"How was ancham pathira movie ?\");'> show real conversation</button>","fromUser": ""}
     ]
 }
