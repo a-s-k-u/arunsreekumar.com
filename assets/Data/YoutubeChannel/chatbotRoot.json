@@ -15,7 +15,6 @@
     "subConversations":[
     ],
     "messages":[
-      {"id" :1,"timeAdded" : "","messageText": "You can Check Akaash Singh Comedy <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"show me akaash singh comedy\");'> >>ask this</button>","fromUser": ""},
-      {"id" :1,"timeAdded" : "","messageText": "yoga class","fromUser": ""}
+      {"id" :1,"timeAdded" : "","messageText": "You can Check Akaash Singh Comedy here<button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"show me akaash singh comedy\");'> >>ask this</button>","fromUser": "youtube"}
     ]
 }

@@ -14,6 +14,6 @@
     ],
     "messages":[
       {"id" :0,"timeAdded" : "","messageText": " Here are some of his videos ","fromUser": "youtube"},
-      {"id" :0,"timeAdded" : "","messageText": "Akaash singh Eviscerating a Heckler - <i>\"My job is to funny, my job isn't to cater to your stupid sensitivities\"</i> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"show me Akaash Singh Eviscerating a Heckler\");'> >>ask this</button>","fromUser": "youtube"}
+      {"id" :0,"timeAdded" : "","messageText": "Akaash singh Eviscerating a Heckler - <i>\"My job is to funny, my job isn't to cater to your stupid sensitivities\"</i> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"show me Akaash Singh Eviscerating a Heckler\");'> >>ask this</button>","fromUser": ""}
     ]
 }
