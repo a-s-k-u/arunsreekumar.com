@@ -4,7 +4,7 @@
         "system" : "Career",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
-        "isActive" : true,
+        "isActive" : false,
         "statusMessage" : "Tell me a bit about yourself",
         "messages" : []
     },
@@ -13,7 +13,7 @@
         "system" : "Corona",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
-        "isActive" : true,
+        "isActive" : false,
         "statusMessage" : "How are you putting up so far?",
         "messages" : []
     },
@@ -22,7 +22,7 @@
         "system" : "HobbyStuff",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/hobby.png",
-        "isActive" : true,
+        "isActive" : false,
         "statusMessage" : "That's crazy stuff mate.",
         "messages" : []
     },
@@ -31,7 +31,7 @@
         "system" : "Photography",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
-        "isActive" : true,
+        "isActive" : false,
         "statusMessage" : "Nice shot you got there",
         "messages" : []
     },
@@ -42,6 +42,15 @@
         "avatar" : "https://arunsreekumar.com/assets/Images/passtime.png",
         "isActive" : true,
         "statusMessage" : "Please take me seriously...",
+        "messages" : []
+    },
+    {
+        "name" : "Trivia",
+        "system" : "Trivia",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
+        "isActive" : false,
+        "statusMessage" : "Some stuff",
         "messages" : []
     },
     {
@@ -76,7 +85,7 @@
         "system" : "Food",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
-        "isActive" : true,
+        "isActive" : false,
         "statusMessage" : "Diet up",
         "messages" : []
     },
@@ -85,7 +94,7 @@
         "system" : "CurrentAffairs",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
-        "isActive" : true,
+        "isActive" : false,
         "statusMessage" : "So, this happened.",
         "messages" : []
     },
@@ -94,7 +103,7 @@
         "system" : "MemeMaker",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
-        "isActive" : true,
+        "isActive" : false,
         "statusMessage" : "Let's have a laugh",
         "messages" : []
     }
