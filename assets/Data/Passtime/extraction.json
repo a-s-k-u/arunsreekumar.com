@@ -59,6 +59,7 @@
       {"id" :1,"timeAdded" : "","messageText": "<hr/>","fromUser": "full"},
       {"id" :1,"timeAdded" : "","messageText": "handler removed druglord.Bangladesh","fromUser": "event"},
       {"id" :1,"timeAdded" : "","messageText": "<hr/>","fromUser": "full"},
-      {"id" :1,"timeAdded" : "","messageText": "That's all about it","fromUser": "Passtime"}
+      {"id" :1,"timeAdded" : "","messageText": "That's all about it","fromUser": "Passtime"},
+      {"id" :0,"timeAdded" : "","messageText": "<button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"clear all\");'> >>clear all</button> ","fromUser": ""}
     ]
 }
