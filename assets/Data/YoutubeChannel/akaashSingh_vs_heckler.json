@@ -63,6 +63,7 @@
       {"id" :258,"timeAdded" : "","messageText": "You arr just talking...u r just nagging... oh my god!!! You know I swear to God I only date Indian women....but, if I was black I mean I would be like ... u know...","fromUser": "akaashsingh"},
       {"id" :278,"timeAdded" : "","messageText": "Susan","fromUser": "akaashsingh"},
       {"id" :0,"timeAdded" : "","messageText": "I think he's refering to another comedian Patrice's funny line here - https://en.wikiquote.org/wiki/Patrice_O%27Neal ...that you can get whatever you want racially","fromUser": "youtube"},
-      {"id" :0,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/youtube/Susan.PNG\"/>","fromUser": "full"}
+      {"id" :0,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/youtube/Susan.PNG\"/>","fromUser": "full"},
+      {"id" :0,"timeAdded" : "","messageText": "<button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"clear all\");'> >>clear all</button> ","fromUser": ""}
     ]
 }
