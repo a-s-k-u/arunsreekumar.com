@@ -34,7 +34,7 @@
       {"id" :1,"timeAdded" : "","messageText": "I got the kid.Show me the money.","fromUser": "hitman"},
       {"id" :1,"timeAdded" : "","messageText": "We have been played. babysitter is offline. He has'nt transferred the money yet.","fromUser": "handler"},
       {"id" :1,"timeAdded" : "","messageText": "babysitter changed current location as Dhaka","fromUser": "event"},
-      {"id" :1,"timeAdded" : "","messageText": "I figured it'd be easier to take the kid from you than from those guys. So, here I am...","fromUser": "babysitter"},
+      {"id" :1,"timeAdded" : "","messageText": "Nowthat you rescued the kid, I can just kill you and keep all the money.","fromUser": "babysitter"},
       {"id" :1,"timeAdded" : "","messageText": "not cool man","fromUser": "hitman"},
       {"id" :1,"timeAdded" : "","messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>","fromUser": "hitman"},
       {"id" :1,"timeAdded" : "","messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>","fromUser": "babysitter"},
