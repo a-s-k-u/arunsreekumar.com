@@ -106,5 +106,14 @@
         "isActive" : false,
         "statusMessage" : "Let's have a laugh",
         "messages" : []
+    },
+    {
+        "name" : "AndroidKunjappan",
+        "system" : "AndroidKunjappan",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/Users/androidK.png",
+        "isActive" : true,
+        "statusMessage" : "I am Android Kunjan v25",
+        "messages" : []
     }
 ]

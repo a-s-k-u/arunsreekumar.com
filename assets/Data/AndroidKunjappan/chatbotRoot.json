@@ -1,0 +1,17 @@
+{
+    "conversationName" : "root",
+    "targetParam"      : "mLoadConversation",
+    "targetValue"      : "May",
+    "continueOnMatch"  : false,
+    "confidence"       : 1,
+    "validationMessage": "How can I help you ?",
+    "matches":[
+    ],
+    "vocabulary":[
+    ],
+    "subConversations":[
+    ],
+    "messages":[
+      {"id" :1,"timeAdded" : "","messageText": "Get whole list of <u onclick='callAngularFunction(\"May\")'>May</u>","fromUser": "androidKunjappan"}
+    ]
+}
