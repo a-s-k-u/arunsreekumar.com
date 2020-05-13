@@ -108,8 +108,8 @@
         "messages" : []
     },
     {
-        "name" : "AndroidKunjappan",
-        "system" : "AndroidKunjappan",
+        "name" : "Android Kunjappan",
+        "system" : "aKunjappan",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/Users/androidK.png",
         "isActive" : true,

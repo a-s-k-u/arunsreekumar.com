@@ -1,0 +1,50 @@
+{
+    "conversationName" : "may",
+    "targetParam"      : "dummy",
+    "targetValue"      : "",
+    "continueOnMatch"  : false,
+    "confidence"       : 1,
+    "validationMessage": "How can I help you ?",
+    "matches":[
+        {"matchPattern":"(.*)","matchType":"inline", "matchParam": "","matchVal":"dummy","matchGroup":1 }
+    ],
+    "vocabulary":[
+    ],
+    "subConversations":[
+    ],
+    "messages":[
+      {"id" :0,"timeAdded" : "","messageText": "Week1","fromUser": "event"},
+      {"id" :1,"timeAdded" : "","messageText": "May 1 : Friday <hr/> തിഥി: അഷ്ടമി (up to 1:27 pm) <br/> നക്ഷത്രം: ആയില്യം","fromUser": "aKunjappan"},
+      {"id" :2,"timeAdded" : "","messageText": "May 2 : Saturday <hr/> തിഥി: അഷ്ടമി (up to 1:27 pm) <br/> നക്ഷത്രം: ആയില്യം","fromUser": "aKunjappan"},
+      {"id" :0,"timeAdded" : "","messageText": "Week2","fromUser": "event"},
+      {"id" :3,"timeAdded" : "","messageText": "May 3 ...","fromUser": "aKunjappan"},
+      {"id" :4,"timeAdded" : "","messageText": "And it was you...honestly it was your cousin?... I appreciate you... your cousin(?)... let her know","fromUser": "aKunjappan"},
+      {"id" :5,"timeAdded" : "","messageText": "Will you say all those things about Indians ?","fromUser": "aKunjappan"},
+      {"id" :6,"timeAdded" : "","messageText": "I don't care. yeah! Feel free. Go outside. talk about slumdog. I don't give a fuck. haaaa!","fromUser": "aKunjappan"},
+      {"id" :7,"timeAdded" : "","messageText": "How sensitive do you you think I'm. haaaa! no one cares. We don't all have time to be serious in this world.I'm going to die soon.","fromUser": "aKunjappan"},
+      {"id" :8,"timeAdded" : "","messageText": "I'm Hindu. So, I get another life. You don't.","fromUser": "aKunjappan"},
+      {"id" :9,"timeAdded" : "","messageText": "She still didn't get it. Barack Obama...whatsuup ?","fromUser": "aKunjappan"},
+      {"id" :10,"timeAdded" : "","messageText": "They hate you. They love me","fromUser": "aKunjappan"},
+      {"id" :11,"timeAdded" : "","messageText": "Everybody's on my side. Nobody's on your side.","fromUser": "aKunjappan"},
+      {"id" :12,"timeAdded" : "","messageText": "Everybody here...Feel love","fromUser": "aKunjappan"},
+      {"id" :13,"timeAdded" : "","messageText": "Everybody treat you like you aint shit","fromUser": "aKunjappan"},
+      {"id" :14,"timeAdded" : "","messageText": "Everybody's like oh shit ! she's angry for no reason... getting sensitive for no reason","fromUser": "aKunjappan"},
+      {"id" :15,"timeAdded" : "","messageText": "This aint goddamn Spellmen...alright","fromUser": "aKunjappan"},
+      {"id" :16,"timeAdded" : "","messageText": "quick tip - Spellmen was some dean in some university who had to resign over racist comments.","fromUser": "aKunjappan"},
+      {"id" :17,"timeAdded" : "","messageText": "I knew you went to a HBC... I knew she went to a Historically Black College. That's the only place you are getting this kind of attitude about me.","fromUser": "aKunjappan"},
+      {"id" :18,"timeAdded" : "","messageText": "Relax son, I'm not white, I dont owe u anything...What guilt even you have got !!!","fromUser": "aKunjappan"},
+      {"id" :19,"timeAdded" : "","messageText": "Your friends are embarrassed for you. Seeing your friend there...probably getting a holiday...after the show she's like,this is gettign rough for her.","fromUser": "aKunjappan"},
+      {"id" :20,"timeAdded" : "","messageText": "You don't care that no one likes you. Wht kind of a horrible self awareness you have.","fromUser": "aKunjappan"},
+      {"id" :21,"timeAdded" : "","messageText": "They clearly love me more than you. That doesnt bother you?","fromUser": "aKunjappan"},
+      {"id" :22,"timeAdded" : "","messageText": " So, you are that kind of girl who get 1% or the 2% of votes and be like, you know what...I don't care what anybody thinks about me.","fromUser": "aKunjappan"},
+      {"id" :23,"timeAdded" : "","messageText": "I only know nobody like me","fromUser": "aKunjappan"},
+      {"id" :24,"timeAdded" : "","messageText": "Oh mh God! what's taking so long... to get to the point... right...","fromUser": "aKunjappan"},
+      {"id" :25,"timeAdded" : "","messageText": "That's why you are in the audience...coz, noone cares what you think","fromUser": "aKunjappan"},
+      {"id" :26,"timeAdded" : "","messageText": "Society has deemed it this way","fromUser": "aKunjappan"},
+      {"id" :27,"timeAdded" : "","messageText": "Society decided I'm here ...u are there...that's what it is","fromUser": "aKunjappan"},
+      {"id" :28,"timeAdded" : "","messageText": "you are a comedian","fromUser": "aKunjappan"},
+      {"id" :29,"timeAdded" : "","messageText": "yeah! that's right...My job is to be funny.... my job is to cater to your stupid sensitivities...","fromUser": "aKunjappan"},
+      {"id" :30,"timeAdded" : "","messageText": "I'm sorry someone was racist to you when you were 8.","fromUser": "aKunjappan"},
+      {"id" :31,"timeAdded" : "","messageText": "I grew up in Texas after 9/11. And I promise that I took it just like you","fromUser": "aKunjappan"}
+    ]
+}
