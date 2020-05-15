@@ -18,7 +18,7 @@
         "messages" : []
     },
     {
-        "name" : "Hobby Stuff",
+        "name" : "HobbyStuff",
         "system" : "HobbyStuff",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/hobby.png",
@@ -63,7 +63,7 @@
         "messages" : []
     },
     {
-        "name" : "Life Hacks",
+        "name" : "LifeHacks",
         "system" : "LifeHacks",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/career.png",
