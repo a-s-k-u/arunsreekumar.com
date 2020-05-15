@@ -73,7 +73,7 @@
     },
     {
         "name" : "Youtube",
-        "system" : "YoutubeChannel",
+        "system" : "Youtube",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/youtube.png",
         "isActive" : true,
