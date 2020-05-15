@@ -1,48 +1,238 @@
 {
-    "conversationName" : "mShowCalendar",
-    "targetParam"      : "dummy",
-    "targetValue"      : "dummy",
-    "continueOnMatch"  : false,
-    "confidence"       : 1,
-    "validationMessage": "How can I help you ?",
-    "matches":[
-        {"matchPattern":"(.*)","matchType":"inline", "matchParam": "","matchVal":"self","matchGroup":1 }
-    ],
-    "vocabulary":[
-    ],
-    "subConversations":[
-    ],
-    "messages":[
-      {"id" :1,"data":"2020-05-15T16:21:13.988Z","timeAdded" : "","messageText": "May 1 : Friday <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/androidK/tulsiThara.png\"/> <hr/> തിഥി: അഷ്ടമി (up to 1:27 pm) <br/> നക്ഷത്രം: ആയില്യം","fromUser": "aKunjappan"},
-      {"id" :2,"data":"2020-05-16T16:21:10.444Z","timeAdded" : "","messageText": "May 2 : Saturday <hr/> തിഥി: അഷ്ടമി (up to 1:27 pm) <br/> നക്ഷത്രം: ആയില്യം","fromUser": "aKunjappan"},
-      {"id" :3,"data":"2020-05-17T16:21:04.537Z","timeAdded" : "","messageText": "May 3 ...","fromUser": "aKunjappan"},
-      {"id" :4,"data":"2020-05-18T17:51:31.607Z","timeAdded" : "","messageText": "And it was you...honestly it was your cousin?... I appreciate you... your cousin(?)... let her know","fromUser": "aKunjappan"},
-      {"id" :5,"data":"2020-05-19T00:00:20.000Z","timeAdded" : "","messageText": "Will you say all those things about Indians ?","fromUser": "aKunjappan"},
-      {"id" :6,"data":"2020-05-20T00:00:20.000Z","timeAdded" : "","messageText": "I don't care. yeah! Feel free. Go outside. talk about slumdog. I don't give a fuck. haaaa!","fromUser": "aKunjappan"},
-      {"id" :7,"data":"2020-05-21T00:00:20.000Z","timeAdded" : "","messageText": "How sensitive do you you think I'm. haaaa! no one cares. We don't all have time to be serious in this world.I'm going to die soon.","fromUser": "aKunjappan"},
-      {"id" :8,"data":"2020-05-22T00:00:20.000Z","timeAdded" : "","messageText": "I'm Hindu. So, I get another life. You don't.","fromUser": "aKunjappan"},
-      {"id" :9,"data":"2020-05-23T00:00:20.000Z","timeAdded" : "","messageText": "She still didn't get it. Barack Obama...whatsuup ?","fromUser": "aKunjappan"},
-      {"id" :10,"data":"2020-05-24T00:00:20.000Z","timeAdded" : "","messageText": "They hate you. They love me","fromUser": "aKunjappan"},
-      {"id" :11,"data":"2020-05-25T00:00:20.000Z","timeAdded" : "","messageText": "Everybody's on my side. Nobody's on your side.","fromUser": "aKunjappan"},
-      {"id" :12,"data":"2020-05-26T00:00:20.000Z","timeAdded" : "","messageText": "Everybody here...Feel love","fromUser": "aKunjappan"},
-      {"id" :13,"data":"2020-05-27T00:00:20.000Z","timeAdded" : "","messageText": "Everybody treat you like you aint shit","fromUser": "aKunjappan"},
-      {"id" :14,"data":"2020-05-28T00:00:20.000Z","timeAdded" : "","messageText": "Everybody's like oh shit ! she's angry for no reason... getting sensitive for no reason","fromUser": "aKunjappan"},
-      {"id" :15,"data":"2020-05-29T00:00:20.000Z","timeAdded" : "","messageText": "This aint goddamn Spellmen...alright","fromUser": "aKunjappan"},
-      {"id" :16,"data":"2020-05-30T00:00:20.000Z","timeAdded" : "","messageText": "quick tip - Spellmen was some dean in some university who had to resign over racist comments.","fromUser": "aKunjappan"},
-      {"id" :17,"data":"2020-05-31T00:00:20.000Z","timeAdded" : "","messageText": "I knew you went to a HBC... I knew she went to a Historically Black College. That's the only place you are getting this kind of attitude about me.","fromUser": "aKunjappan"},
-      {"id" :18,"data":"2020-06-01T00:00:20.000Z","timeAdded" : "","messageText": "Relax son, I'm not white, I dont owe u anything...What guilt even you have got !!!","fromUser": "aKunjappan"},
-      {"id" :19,"data":"2020-06-02T00:00:20.000Z","timeAdded" : "","messageText": "Your friends are embarrassed for you. Seeing your friend there...probably getting a holiday...after the show she's like,this is gettign rough for her.","fromUser": "aKunjappan"},
-      {"id" :20,"data":"2020-06-03T00:00:20.000Z","timeAdded" : "","messageText": "You don't care that no one likes you. Wht kind of a horrible self awareness you have.","fromUser": "aKunjappan"},
-      {"id" :21,"data":"2020-06-04T00:00:20.000Z","timeAdded" : "","messageText": "They clearly love me more than you. That doesnt bother you?","fromUser": "aKunjappan"},
-      {"id" :22,"data":"2020-06-05T00:00:20.000Z","timeAdded" : "","messageText": " So, you are that kind of girl who get 1% or the 2% of votes and be like, you know what...I don't care what anybody thinks about me.","fromUser": "aKunjappan"},
-      {"id" :23,"data":"2020-06-06T00:00:20.000Z","timeAdded" : "","messageText": "I only know nobody like me","fromUser": "aKunjappan"},
-      {"id" :24,"data":"2020-06-07T00:00:20.000Z","timeAdded" : "","messageText": "Oh mh God! what's taking so long... to get to the point... right...","fromUser": "aKunjappan"},
-      {"id" :25,"data":"2020-06-08T00:00:20.000Z","timeAdded" : "","messageText": "That's why you are in the audience...coz, noone cares what you think","fromUser": "aKunjappan"},
-      {"id" :26,"data":"2020-06-09T00:00:20.000Z","timeAdded" : "","messageText": "Society has deemed it this way","fromUser": "aKunjappan"},
-      {"id" :27,"data":"2020-06-10T00:00:20.000Z","timeAdded" : "","messageText": "Society decided I'm here ...u are there...that's what it is","fromUser": "aKunjappan"},
-      {"id" :28,"data":"2020-06-11T00:00:20.000Z","timeAdded" : "","messageText": "you are a comedian","fromUser": "aKunjappan"},
-      {"id" :29,"data":"2020-06-12T00:00:20.000Z","timeAdded" : "","messageText": "yeah! that's right...My job is to be funny.... my job is to cater to your stupid sensitivities...","fromUser": "aKunjappan"},
-      {"id" :30,"data":"2020-06-13T00:00:20.000Z","timeAdded" : "","messageText": "I'm sorry someone was racist to you when you were 8.","fromUser": "aKunjappan"},
-      {"id" :31,"data":"2020-06-14T00:00:20.000Z","timeAdded" : "","messageText": "I grew up in Texas after 9/11. And I promise that I took it just like you","fromUser": "aKunjappan"}
-    ]
+  "conversationName": "mShowCalendar",
+  "targetParam": "dummy",
+  "targetValue": "dummy",
+  "continueOnMatch": false,
+  "confidence": 1,
+  "validationMessage": "How can I help you ?",
+  "matches": [
+    {
+      "matchPattern": "(.*)",
+      "matchType": "inline",
+      "matchParam": "",
+      "matchVal": "self",
+      "matchGroup": 1
+    }
+  ],
+  "vocabulary": [],
+  "subConversations": [],
+  "messages": [
+    {
+      "id": 1,
+      "data": "2020-05-15T16:21:13.988Z",
+      "timeAdded": "",
+      "messageText": "(1) May 15 : Friday <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/androidK/tulsiThara.png\"/> <hr/> തിഥി: അഷ്ടമി (up to 1:27 pm) <br/> നക്ഷത്രം: ആയില്യം",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 2,
+      "data": "2020-05-16T16:21:10.444Z",
+      "timeAdded": "",
+      "messageText": "(2) May 16 : Saturday <hr/> <ul><li> <b>തിഥി:</b> നവമി (up to 10:23 am),ദശമി </li> <li><b>നക്ഷത്രം:</b> ചതയം (up to 11:05 am),പൂരുരുട്ടാതി</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 3,
+      "data": "2020-05-17T16:21:04.537Z",
+      "timeAdded": "",
+      "messageText": "(3) May 17 : Sunday <hr/> <ul><li> <b>തിഥി:</b> ദശമി (up to 12:42 pm),ഏകാദശി </li> <li><b>നക്ഷത്രം:</b> പൂരുരുട്ടാതി (up to 1:59 pm),ഉതൃട്ടാതി</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 4,
+      "data": "2020-05-18T17:51:31.607Z",
+      "timeAdded": "",
+      "messageText": "(4) May 18 : Monday <hr/> <ul><li> <b>തിഥി:</b> ഏകാദശി (up to 3:08 pm),ദ്വാദശി </li> <li><b>നക്ഷത്രം:</b> ഉതൃട്ടാതി (up to 4:58 pm),രേവതി</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 5,
+      "data": "2020-05-19T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(5) May 19 : Tuesday <hr/> <ul><li> <b>തിഥി:</b> ദ്വാദശി (up to 5:31 pm),ത്രയോദശി </li> <li><b>നക്ഷത്രം:</b> രേവതി (up to 7:53 pm),അശ്വതി</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 6,
+      "data": "2020-05-20T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(6) May 20 : Wednesday <hr/> <ul><li> <b>തിഥി:</b> ത്രയോദശി (up to 7:42 pm),ചതുര്‍ദശി </li> <li><b>നക്ഷത്രം:</b> അശ്വതി (up to 10:37 pm), ഭരണി</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 7,
+      "data": "2020-05-21T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(7) May 21 : Thursday <hr/> <ul><li> <b>തിഥി:</b> ചതുര്‍ദശി (up to 9:36 pm),അമാവാസി</li> <li><b>നക്ഷത്രം:</b> ഭരണി</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 8,
+      "data": "2020-05-22T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(8) May 22 : Friday <hr/> <ul><li> <b>തിഥി:</b> അമാവാസി (up to 11:08 pm), പ്രഥമ </li> <li><b>നക്ഷത്രം:</b> കാര്‍ത്തിക</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 9,
+      "data": "2020-05-23T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(9) May 23 : Saturday <hr/> <ul><li> <b>തിഥി:</b> പ്രഥമ, ദ്വിതീയ </li> <li><b>നക്ഷത്രം:</b> രോഹിണി</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 10,
+      "data": "2020-05-24T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(10) May 24 : Sunday <hr/> <ul><li> <b>തിഥി:</b> ദ്വിതീയ </li> <li><b>നക്ഷത്രം:</b> മകയിരം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 11,
+      "data": "2020-05-25T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(11) May 25 : Monday <hr/> <ul><li> <b>തിഥി:</b> തൃതീയ </li> <li><b>നക്ഷത്രം:</b> മകയിരം (up to 6:10 am),തിരുവാതിര</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 12,
+      "data": "2020-05-26T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(12) May 26 : Tuesday <hr/> <ul><li> <b>തിഥി:</b> ചതുര്‍ത്ഥി </li> <li><b>നക്ഷത്രം:</b> തിരുവാതിര (up to 7:02 am),പുണര്‍തം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 13,
+      "data": "2020-05-27T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(13) May 27 : Wednesday <hr/> <ul><li> <b>തിഥി:</b> പഞ്ചമി,ഷഷ്ഠി </li> <li><b>നക്ഷത്രം:</b> പുണര്‍തം (up to 7:28 am),പൂയം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 14,
+      "data": "2020-05-28T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(14) May 28 : Thursday <hr/> <ul><li> <b>തിഥി:</b> ഷഷ്ഠി (up to 11:27 pm),സപ്തമി </li> <li><b>നക്ഷത്രം:</b> പൂയം (up to 7:27 am),ആയില്യം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 15,
+      "data": "2020-05-29T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(15) May 29 : Friday <hr/> <ul><li> <b>തിഥി:</b> സപ്തമി (up to 9:55 pm),അഷ്ടമി</li> <li><b>നക്ഷത്രം:</b> ആയില്യം (up to 6:58 am),മകം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 16,
+      "data": "2020-05-30T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(16) May 30 : Saturday <hr/> <ul><li> <b>തിഥി:</b> അഷ്ടമി (up to 7:57 pm),നവമി </li> <li><b>നക്ഷത്രം:</b> പൂരം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 17,
+      "data": "2020-05-31T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(17) May 31 : Sunday <hr/> <ul><li> <b>തിഥി:</b> നവമി (up to 5:37 pm),ദശമി </li> <li><b>നക്ഷത്രം:</b> ഉത്രം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 18,
+      "data": "2020-06-01T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(18) June 01 : Monday <hr/> <ul><li> <b>തിഥി:</b> ദശമി (up to 2:57 pm),ഏകാദശി </li> <li><b>നക്ഷത്രം:</b> അത്തം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 19,
+      "data": "2020-06-02T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(19) June 02 : Tuesday <hr/> <ul><li> <b>തിഥി:</b> ഏകാദശി (up to 12:04 pm),ദ്വാദശി </li> <li><b>നക്ഷത്രം:</b> ചിത്തിര (up to 10:54 pm),ചോതി</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 20,
+      "data": "2020-06-03T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(20) June 03 : Wednesday <hr/> <ul><li> <b>തിഥി:</b> ദ്വാദശി (up to 9:05 am),ത്രയോദശി </li> <li><b>നക്ഷത്രം:</b> ചോതി (up to 8:43 pm),വിശാഖം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 21,
+      "data": "2020-06-04T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(21) June 04 : Thursday <hr/> <ul><li> <b>തിഥി:</b> ത്രയോദശി (up to 6:06 am),ചതുര്‍ദശി </li> <li><b>നക്ഷത്രം:</b> വിശാഖം (up to 6:36 pm),അനിഴം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 22,
+      "data": "2020-06-05T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(22) June 05 : Friday <hr/> <ul><li> <b>തിഥി:</b> പൗര്‍ണമി,പ്രഥമ </li> <li><b>നക്ഷത്രം:</b>അനിഴം (up to 4:43 pm),തൃക്കേട്ട</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 23,
+      "data": "2020-06-06T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(23) June 06 : Saturday <hr/> <ul><li> <b>തിഥി:</b> പ്രഥമ (up to 10:33 pm),ദ്വിതീയ </li> <li><b>നക്ഷത്രം:</b> തൃക്കേട്ട (up to 3:12 pm),മൂലം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 24,
+      "data": "2020-06-07T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(24) June 07 : Sunday <hr/> <ul><li> <b>തിഥി:</b>ദ്വിതീയ (up to 8:56 pm),തൃതീയ </li> <li><b>നക്ഷത്രം:</b> മൂലം (up to 2:11 pm),പൂരാടം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 25,
+      "data": "2020-06-08T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(25) June 08 : Monday <hr/> <ul><li> <b>തിഥി:</b> തൃതീയ (up to 7:56 pm),ചതുര്‍ത്ഥി </li> <li><b>നക്ഷത്രം:</b> പൂരാടം (up to 1:45 pm),ഉത്രാടം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 26,
+      "data": "2020-06-09T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(26) June 09 : Tuesday <hr/> <ul><li> <b>തിഥി:</b> ചതുര്‍ത്ഥി (up to 7:39 pm),പഞ്ചമി </li> <li><b>നക്ഷത്രം:</b> ഉത്രാടം (up to 2:00 pm),തിരുവോണം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 27,
+      "data": "2020-06-10T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(27) June 10 : Wednesday <hr/> <ul><li> <b>തിഥി:</b> പഞ്ചമി (up to 8:04 pm),ഷഷ്ഠി</li> <li><b>നക്ഷത്രം:</b>തിരുവോണം (up to 2:57 pm),അവിട്ടം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 28,
+      "data": "2020-06-11T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(28) June 11 : Thursday <hr/> <ul><li> <b>തിഥി:</b> ഷഷ്ഠി (up to 9:11 pm),സപ്തമി </li> <li><b>നക്ഷത്രം:</b> അവിട്ടം (up to 4:35 pm),ചതയം</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 29,
+      "data": "2020-06-12T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(29) June 12 : Friday <hr/> <ul><li> <b>തിഥി:</b> സപ്തമി (up to 10:52 pm),അഷ്ടമി </li> <li><b>നക്ഷത്രം:</b> ചതയം (up to 6:48 pm),പൂരുരുട്ടാതി</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 30,
+      "data": "2020-06-13T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(30) June 13 : Saturday <hr/> <ul><li> <b>തിഥി:</b> അഷ്ടമി,നവമി </li> <li><b>നക്ഷത്രം:</b> പൂരുരുട്ടാതി (up to 9:28 pm),ഉതൃട്ടാതി</li>",
+      "fromUser": "aKunjappan"
+    },
+    {
+      "id": 31,
+      "data": "2020-06-14T00:00:20.000Z",
+      "timeAdded": "",
+      "messageText": "(31) June 14 : Sunday <hr/> <ul><li> <b>തിഥി:</b> നവമി </li> <li><b>നക്ഷത്രം:</b>ഉതൃട്ടാതി,രേവതി</li>",
+      "fromUser": "aKunjappan"
+    }
+  ]
 }
