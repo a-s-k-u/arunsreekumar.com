@@ -1,7 +1,7 @@
 {
     "conversationName" : "root",
     "targetParam"      : "mLoadConversation",
-    "targetValue"      : "May",
+    "targetValue"      : "edavom",
     "continueOnMatch"  : false,
     "confidence"       : 1,
     "validationMessage": "How can I help you ?",
@@ -12,6 +12,6 @@
     "subConversations":[
     ],
     "messages":[
-      {"id" :0,"timeAdded" : "","messageText": "Get whole list of <u onclick='callAngularFunction(\"May\")'>May</u>","fromUser": "aKunjappan"}
+      {"id" :0,"timeAdded" : "","messageText": "Show calendar for <u onclick='callAngularFunction(\"edavom\")'>edavom</u>","fromUser": "aKunjappan"}
     ]
 }
