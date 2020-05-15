@@ -6,12 +6,13 @@
     "confidence"       : 1,
     "validationMessage": "How can I help you ?",
     "matches":[
+      {"matchPattern":"ഇടവ മാസം","matchType":"static", "matchParam": "","matchVal":"edavom","matchGroup":0 }
     ],
     "vocabulary":[
     ],
     "subConversations":[
     ],
     "messages":[
-      {"id" :0,"timeAdded" : "","messageText": "Show calendar for <u onclick='callAngularFunction(\"edavom\")'>edavom</u>","fromUser": "aKunjappan"}
+      {"id" :0,"timeAdded" : "","messageText": "Show calendar for <u onclick='callAngularFunction(\"edavom(ഇടവ മാസം)\")'>ഇടവ മാസം</u>","fromUser": "aKunjappan"}
     ]
 }
