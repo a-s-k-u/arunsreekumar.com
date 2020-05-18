@@ -1,0 +1,309 @@
+{
+  "conversationName": "myiphoneApps",
+  "targetParam": "Dummy",
+  "targetValue": "",
+  "continueOnMatch": false,
+  "confidence": 1,
+  "validationMessage": "How can I help you ?",
+  "matches": [
+    {
+      "matchPattern": "(.*)",
+      "matchType": "inline",
+      "matchParam": "",
+      "matchVal": "dummy",
+      "matchGroup": 1
+    }
+  ],
+  "vocabulary": [],
+  "subConversations": [],
+  "messages": [
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "Okay...the story starts in Mumbai",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "1. Spotify <hr/> Listening to music",
+      "fromUser": ""
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "2. ",
+      "fromUser": "full"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "druglord.India created group",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "druglord.India added babysitter",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "you should get my son back. Otherwise I'll kill your family.",
+      "fromUser": "druglord.India"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "okay",
+      "fromUser": "babysitter"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "babysitter added handler",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "I've a job for you. Rescue the kid. Will pay good money.",
+      "fromUser": "babysitter"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "okay",
+      "fromUser": "handler"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "handler added hitman",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "we have a rescue operation. Will get good money.",
+      "fromUser": "handler"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "okay",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "hitman changed current location = Dhaka",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "I'm in Dhaka",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:48px;color:black\"></i>",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:48px;color:black\"></i>",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "I got the kid.Show me the money.",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "We have been played. babysitter is offline. He has'nt transferred the money yet.",
+      "fromUser": "handler"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "babysitter changed current location as Dhaka",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "Nowthat you rescued the kid, I can just kill you and keep all the money.",
+      "fromUser": "babysitter"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "not cool man",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>",
+      "fromUser": "babysitter"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>",
+      "fromUser": "babysitter"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>",
+      "fromUser": "babysitter"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:30px;color:black\"></i>",
+      "fromUser": "babysitter"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "druglord.Bangladesh added Police",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:50px;color:red\"></i><i class=\"fa fa-bomb\" style=\"font-size:50px;color:red\"></i>",
+      "fromUser": "police"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "u know what! u take the kid...He reminds me of my kid...get him there safely.",
+      "fromUser": "hitman"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "okay",
+      "fromUser": "babysitter"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:50px;color:red\">",
+      "fromUser": "police"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "Police removed babysitter",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<i class=\"fa fa-bomb\" style=\"font-size:50px;color:red\">",
+      "fromUser": "druglord.Bangladesh"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "druglord.Bangladesh removed hitman",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<hr/>",
+      "fromUser": "full"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "kid is last seen with handler",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<hr/>",
+      "fromUser": "full"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "After few months",
+      "fromUser": "full"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<hr/>",
+      "fromUser": "full"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "handler removed druglord.Bangladesh",
+      "fromUser": "event"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "<hr/>",
+      "fromUser": "full"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "That's all about it",
+      "fromUser": "Passtime"
+    },
+    {
+      "id": 0,
+      "timeAdded": "",
+      "messageText": "<button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"clear all\");'> >>clear all</button> ",
+      "fromUser": ""
+    }
+  ]
+}

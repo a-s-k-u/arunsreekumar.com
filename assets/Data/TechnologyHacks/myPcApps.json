@@ -1,0 +1,117 @@
+{
+  "conversationName": "myPcApps",
+  "targetParam": "Dummy",
+  "targetValue": "",
+  "continueOnMatch": false,
+  "confidence": 1,
+  "validationMessage": "How can I help you ?",
+  "matches": [
+    {
+      "matchPattern": "(.*)",
+      "matchType": "inline",
+      "matchParam": "",
+      "matchVal": "dummy",
+      "matchGroup": 1
+    }
+  ],
+  "vocabulary": [],
+  "subConversations": [],
+  "messages": [
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "1. Spotify Desktop <hr/> Listening music in desktop. Never used it but.",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 2,
+      "timeAdded": "",
+      "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 3,
+      "timeAdded": "",
+      "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "4. Visual Studio 2019 Community Edition(Free)<hr/> Development IDE",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "5. Visual Studio Code (Free)<hr/> ",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "6. WebEx Teams <hr/> Chat",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "7. WebEx Meet <hr/> Video Conferencing",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "8. Evernote <hr/> Notetaking application",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "9. Blender (Free / Open Source)<hr/> Interest in 3D Modelling ",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "10. Netflix <hr/> Watching movies",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "11. OBS Studio (Free / Open Source) <hr/> Experimenting with Streaming / Recording",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "12. Paint .Net (Free / Open Source) <hr/> My photoshopping App",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "13. Angry IP Scanner (Free / Open Source) <hr/> Curiosity to check the functionality",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "Console Apps",
+      "fromUser": "full"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "14. Git (Free / Open Source)",
+      "fromUser": "technologyHacks"
+    },
+    {
+      "id": 1,
+      "timeAdded": "",
+      "messageText": "15. nginx (Free / Open Source)",
+      "fromUser": "technologyHacks"
+    }
+  ]
+}
