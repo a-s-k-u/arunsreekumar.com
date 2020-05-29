@@ -115,5 +115,14 @@
         "isActive" : true,
         "statusMessage" : "I am Android Kunjan v2.5",
         "messages" : []
+    },
+    {
+        "name" : "something else",
+        "system" : "SuperBot",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/Users/androidK.jpg",
+        "isActive" : true,
+        "statusMessage" : "I am Super Bot",
+        "messages" : []
     }
 ]

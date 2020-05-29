@@ -1,6 +1,6 @@
 {
     "conversationName" : "root",
-    "targetParam"      : "mLoadSuperBot",
+    "targetParam"      : "mLoadConversation",
     "targetValue"      : "",
     "continueOnMatch"  : false,
     "confidence"       : 1,
@@ -13,6 +13,5 @@
     "subConversations":[
     ],
     "messages":[
-      {"id" :0,"timeAdded" : "","messageText": "Show calendar for <u onclick='callAngularFunction(\"edavom(ഇടവ മാസം)\")'>ഇടവ മാസം</u>","fromUser": "aKunjappan"}
     ]
 }
