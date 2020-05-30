@@ -118,7 +118,7 @@
     },
     {
         "name" : "something else",
-        "system" : "SuperBot",
+        "system" : "childBot",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/Users/androidK.jpg",
         "isActive" : true,

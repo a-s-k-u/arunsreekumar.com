@@ -1,6 +1,6 @@
 {
     "conversationName" : "root",
-    "targetParam"      : "mLoadSuperBot",
+    "targetParam"      : "mLoadChildBot",
     "targetValue"      : "",
     "continueOnMatch"  : false,
     "confidence"       : 1,
