@@ -13,7 +13,7 @@
     "subConversations":[
     ],
     "messages":[
-      {"id" :1,"timeAdded" : "","messageText": "Okay...the story starts in Mumbai. <Spoilers Ahead>","fromUser": "Passtime"},
+      {"id" :1,"timeAdded" : "","messageText": "Okay...the story starts in Mumbai. *****Spoilers Ahead*****","fromUser": "Passtime"},
       {"id" :1,"timeAdded" : "","messageText": "Son of the biggest drug lord in India gets kidannapped","fromUser": ""},
       {"id" :1,"timeAdded" : "","messageText": "<hr/>Mumbai Druglords<hr/>","fromUser": "full"},
       {"id" :1,"timeAdded" : "","messageText": "druglord.India created group","fromUser": "event"},
