@@ -6,7 +6,6 @@
     "confidence"       : 1,
     "validationMessage": "How can I help you ?",
     "matches":[
-        {"matchPattern":"(.*)","matchType":"inline", "matchParam": "","matchVal":"dummy","matchGroup":1 }
     ],
     "vocabulary":[
     ],

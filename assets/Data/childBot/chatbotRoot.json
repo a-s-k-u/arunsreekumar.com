@@ -7,7 +7,7 @@
     "validationMessage": "How can I help you ?",
     "matches":[
       {"matchPattern":"edavom","matchType":"static", "matchParam": "","matchVal":"edavom","matchGroup":0 },
-      {"matchPattern":"anchamPathira","matchType":"inline", "matchParam": "","matchVal":"anchamPathira","matchGroup":1 },
+      {"matchPattern":"anchamPathira","matchType":"static", "matchParam": "","matchVal":"anchamPathira","matchGroup":1 },
       {"matchPattern":"extraction","matchType":"static", "matchParam": "","matchVal":"extraction","matchGroup":0 }
     ],
     "vocabulary":[

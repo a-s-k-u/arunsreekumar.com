@@ -6,7 +6,7 @@
     "confidence"       : 1,
     "validationMessage": "How can I help you ?",
     "matches":[
-        {"matchPattern":"(ancham pathira|അഞ്ചാം പാതിരാ)","matchType":"inline", "matchParam": "","matchVal":"anchamPathira","matchGroup":1 },
+        {"matchPattern":"(anchamPathira|ancham pathira|അഞ്ചാം പാതിരാ)","matchType":"inline", "matchParam": "","matchVal":"anchamPathira","matchGroup":1 },
         {"matchPattern":"Extraction","matchType":"static", "matchParam": "","matchVal":"extraction","matchGroup":0 }
     ],
     "vocabulary":[
