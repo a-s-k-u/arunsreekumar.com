@@ -15,8 +15,8 @@
     "subConversations":[
     ],
     "messages":[
-      {"id" :1,"timeAdded" : "","messageText": "okay... I watch movies, series and makes my own interpretations...","fromUser": "Passtime"},
-      {"id" :0,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/passtime/ancham-pathira.jpg\"/>watched <u>anchaam pathira</u> movie and thought the real culprit is someone else. </br> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"show the real conversation in ancham pathira movie between Dr benjamin Louis and Anwar Hussain\");'> >>ask</button>","fromUser": "This Month(April)"},
-      {"id" :0,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/passtime/extraction.jpg\"/> saw Extraction movie in Netflix. Story was simpler than they thought.</br><button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"tell me the story in Extraction\");'> >>ask</button> ","fromUser": ""}
+      {"id" :1,"timeAdded" : "","messageText": "okay... I watch movies, series for fun and not for fun too...","fromUser": "Passtime"},
+      {"id" :0,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/passtime/ancham-pathira.jpg\"/>watched <u>anchaam pathira</u> movie and thought the real culprit is someone else. </br> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"show the real conversation in ancham pathira movie between Dr benjamin Louis and Anwar Hussain\");'> >>ask</button>","fromUser": "(April)"},
+      {"id" :0,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/passtime/extraction.jpg\"/> saw Extraction movie in Netflix. I can explain the story in 30 seconds.</br><button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"tell me the story in Extraction\");'> >>ask</button> ","fromUser": ""}
     ]
 }
