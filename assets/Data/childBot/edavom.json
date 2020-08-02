@@ -4,7 +4,7 @@
   "targetValue": "dummy",
   "continueOnMatch": false,
   "confidence": 1,
-  "banner" : "Calendar",
+  "bannerName" : "Calendar",
   "validationMessage": "How can I help you ?",
   "matches": [
     {
