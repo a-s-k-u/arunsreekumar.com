@@ -22,91 +22,70 @@
       "id": 1,
       "data": {"date":"2020-01-01T16:21:13.988Z","event":""},
       "timeAdded": "",
-      "messageText": "(1) Jan 01 : WED New Years Day <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/NewYear.jpg\"/> <hr/> തിഥി: അഷ്ടമി (up to 1:27 pm) <br/> നക്ഷത്രം: ആയില്യം",
+      "messageText": "(1) Jan 01 : WED New Years Day <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/NewYear.jpg\"/> <hr/> Marks the first day of the Gregorian Calendar. Fireworks, Fireworks, Fireworks",
       "fromUser": "LifeHacks"
     },
     {
       "id": 2,
       "data": {"date":"2020-01-27T16:21:10.444Z","event":""},
       "timeAdded": "",
-      "messageText": "(2) Jan 27 : MON Australia Day <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/AustraliaDay.jpg\"/> <hr/><ul><li> <b>തിഥി:</b> നവമി (up to 10:23 am),ദശമി </li> <li><b>നക്ഷത്രം:</b> ചതയം (up to 11:05 am),പൂരുരുട്ടാതി</li>",
-      "fromUser": "LifeHacks"
-    },
-    {
-      "id": 3,
-      "data": {"date":"2020-03-09T16:21:04.537Z","event":""},
-      "timeAdded": "",
-      "messageText": "(3) Mar 09 : MON Canberra Day <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q1.jpg\"/> <hr/> <ul><li> <b>തിഥി:</b> ദശമി (up to 12:42 pm),ഏകാദശി </li> <li><b>നക്ഷത്രം:</b> പൂരുരുട്ടാതി (up to 1:59 pm),ഉതൃട്ടാതി</li>",
+      "messageText": "(2) Jan 27 : MON Australia Day <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/AustraliaDay.jpg\"/> <hr/> Fireworks again. Australia Day is the official national day of Australia. ",
       "fromUser": "LifeHacks"
     },
     {
       "id": 4,
       "data": {"date":"2020-04-10T17:51:31.607Z","event":""},
       "timeAdded": "",
-      "messageText": "(4) Apr 10 : FRI Good Friday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q2.jpg\"/> <hr/> <ul><li> <b>തിഥി:</b> ഏകാദശി (up to 3:08 pm),ദ്വാദശി </li> <li><b>നക്ഷത്രം:</b> ഉതൃട്ടാതി (up to 4:58 pm),രേവതി</li>",
+      "messageText": "(4) Apr 10 : FRI Good Friday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q1.jpg\"/> <hr/> Beginning of the 4 - day weekend. This time, hijacked by Corona. Shopping and preparation for the long weekend. ",
       "fromUser": "LifeHacks"
     },
     {
       "id": 5,
       "data": {"date":"2020-04-11T00:00:20.000Z","event":""},
       "timeAdded": "",
-      "messageText": "(5) Apr 11 : SAT Easter Sunday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q3.jpg\"/> <hr/> <ul><li> <b>തിഥി:</b> ദ്വാദശി (up to 5:31 pm),ത്രയോദശി </li> <li><b>നക്ഷത്രം:</b> രേവതി (up to 7:53 pm),അശ്വതി</li>",
+      "messageText": "(5) Apr 11 : SAT Easter Sunday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q2.jpg\"/> <hr/> Gardening. Checking up on the flowers.",
       "fromUser": "LifeHacks"
     },
     {
       "id": 6,
       "data": {"date":"2020-04-13T00:00:20.000Z","event":""},
       "timeAdded": "",
-      "messageText": "(6) Apr 13 : MON Easter Monday <hr/> <ul><li> <b>തിഥി:</b> ത്രയോദശി (up to 7:42 pm),ചതുര്‍ദശി </li> <li><b>നക്ഷത്രം:</b> അശ്വതി (up to 10:37 pm), ഭരണി</li>",
+      "messageText": "(6) Apr 13 : MON Easter Monday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q3.jpg\"/> <hr/><hr/> Rain Rain Rain Rain",
       "fromUser": "LifeHacks"
     },
     {
       "id": 7,
       "data": {"date":"2020-04-25T00:00:20.000Z","event":""},
       "timeAdded": "",
-      "messageText": "(7) Apr 25 : SAT Anzac Day <hr/> <ul><li> <b>തിഥി:</b> ചതുര്‍ദശി (up to 9:36 pm),അമാവാസി</li> <li><b>നക്ഷത്രം:</b> ഭരണി</li>",
-      "fromUser": "LifeHacks"
-    },
-    {
-      "id": 8,
-      "data": {"date":"2020-04-27T00:00:20.000Z","event":""},
-      "timeAdded": "",
-      "messageText": "(8) Apr 27 : MON Declared Public Holiday <hr/> <ul><li> <b>തിഥി:</b> അമാവാസി (up to 11:08 pm), പ്രഥമ </li> <li><b>നക്ഷത്രം:</b> കാര്‍ത്തിക</li>",
-      "fromUser": "LifeHacks"
-    },
-    {
-      "id": 9,
-      "data": {"date":"2020-06-01T00:00:20.000Z","event":""},
-      "timeAdded": "",
-      "messageText": "(9) Jun 01 : MON Reconciliation Day <hr/> <ul><li> <b>തിഥി:</b> പ്രഥമ, ദ്വിതീയ </li> <li><b>നക്ഷത്രം:</b> രോഹിണി</li>",
+      "messageText": "(7) Apr 25 : SAT Anzac Day <hr/> ",
       "fromUser": "LifeHacks"
     },
     {
       "id": 10,
       "data": {"date":"2020-06-08T00:00:20.000Z","event":""},
       "timeAdded": "",
-      "messageText": "(10) Jun 08 : MON Queen's Birthday <hr/> <ul><li> <b>തിഥി:</b> ദ്വിതീയ </li> <li><b>നക്ഷത്രം:</b> മകയിരം</li>",
+      "messageText": "(10) Jun 08 : MON Queen's Birthday ",
       "fromUser": "LifeHacks"
     },
     {
       "id": 11,
       "data": {"date":"2020-10-05T00:00:20.000Z","event":""},
       "timeAdded": "",
-      "messageText": "(11) Oct 05 : MON Labour Day <hr/> <ul><li> <b>തിഥി:</b> തൃതീയ </li> <li><b>നക്ഷത്രം:</b> മകയിരം (up to 6:10 am),തിരുവാതിര</li>",
+      "messageText": "(11) Oct 05 : MON Labour Day <hr/> ",
       "fromUser": "LifeHacks"
     },
     {
       "id": 12,
       "data": {"date":"2020-12-25T00:00:20.000Z","event":""},
       "timeAdded": "",
-      "messageText": "(12) Dec 25 : FRI Christmas Day <hr/> <ul><li> <b>തിഥി:</b> ചതുര്‍ത്ഥി </li> <li><b>നക്ഷത്രം:</b> തിരുവാതിര (up to 7:02 am),പുണര്‍തം</li>",
+      "messageText": "(12) Dec 25 : FRI Christmas Day <hr/> ",
       "fromUser": "LifeHacks"
     },
     {
       "id": 13,
       "data": {"date":"2020-12-28T00:00:20.000Z","event":""},
       "timeAdded": "",
-      "messageText": "(13) Dec 28 : MON Boxing Day <hr/> <ul><li> <b>തിഥി:</b> പഞ്ചമി,ഷഷ്ഠി </li> <li><b>നക്ഷത്രം:</b> പുണര്‍തം (up to 7:28 am),പൂയം</li>",
+      "messageText": "(13) Dec 28 : MON Boxing Day <hr/>",
       "fromUser": "LifeHacks"
     }
   ]
