@@ -1,0 +1,18 @@
+{
+    "conversationName" : "root",
+    "targetParam"      : "mLoadChildBot",
+    "targetValue"      : "",
+    "continueOnMatch"  : false,
+    "confidence"       : 1,
+    "validationMessage": "How can I help you ?",
+    "matches":[
+      {"matchPattern":"Australian Holidays 2020","matchType":"static", "matchParam": "","matchVal":"Australian Holidays 2020","matchGroup":0 }
+    ],
+    "vocabulary":[
+    ],
+    "subConversations":[
+    ],
+    "messages":[
+      {"id" :0,"timeAdded" : "","messageText": "<u onclick='callAngularFunction(\"Australian Holidays 2020\")'>Australian Holidays 2020</u>","fromUser": "LifeHacks"}
+    ]
+}

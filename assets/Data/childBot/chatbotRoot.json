@@ -8,7 +8,8 @@
     "matches":[
       {"matchPattern":"edavom","matchType":"static", "matchParam": "","matchVal":"edavom","matchGroup":0 },
       {"matchPattern":"anchamPathira","matchType":"static", "matchParam": "","matchVal":"anchamPathira","matchGroup":1 },
-      {"matchPattern":"extraction","matchType":"static", "matchParam": "","matchVal":"extraction","matchGroup":0 }
+      {"matchPattern":"extraction","matchType":"static", "matchParam": "","matchVal":"extraction","matchGroup":0 },
+      {"matchPattern":"Australian Holidays 2020","matchType":"static", "matchParam": "","matchVal":"australianHolidays2020","matchGroup":0 }
     ],
     "vocabulary":[
     ],
