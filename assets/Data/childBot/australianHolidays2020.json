@@ -20,70 +20,70 @@
   "messages": [
     {
       "id": 1,
-      "data": {"date":"2020-01-01T16:21:13.988Z","eventText":"Jan", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/NewYear.png"},
+      "data": {"date":"2020-01-01T16:21:13.988Z","eventText":"Jan01", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/NewYear.png"},
       "timeAdded": "",
       "messageText": "(1) Jan 01 : WED New Years Day <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/NewYear.jpg\"/> <hr/> Marks the first day of the Gregorian Calendar. Fireworks, Fireworks, Fireworks",
       "fromUser": "LifeHacks"
     },
     {
       "id": 2,
-      "data": {"date":"2020-01-27T16:21:10.444Z","eventText":"Jan", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/AustraliaDay.png"},
+      "data": {"date":"2020-01-27T16:21:10.444Z","eventText":"Jan27", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/AustraliaDay.png"},
       "timeAdded": "",
       "messageText": "(2) Jan 27 : MON Australia Day <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/AustraliaDay.jpg\"/> <hr/> Fireworks again. Australia Day is the official national day of Australia. ",
       "fromUser": "LifeHacks"
     },
     {
-      "id": 4,
-      "data": {"date":"2020-04-10T17:51:31.607Z","eventText":"Apr", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/GoodFriday.png"},
+      "id": 3,
+      "data": {"date":"2020-04-10T17:51:31.607Z","eventText":"Apr10", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/GoodFriday.png"},
       "timeAdded": "",
       "messageText": "(3) Apr 10 : FRI Good Friday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q1.jpg\"/> <hr/> Beginning of the 4 - day weekend. This time, hijacked by Corona. Shopping and preparation for the long weekend. ",
       "fromUser": "LifeHacks"
     },
     {
-      "id": 6,
-      "data": {"date":"2020-04-13T00:00:20.000Z","eventText":"Apr", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/Shiva.png"},
+      "id": 4,
+      "data": {"date":"2020-04-13T00:00:20.000Z","eventText":"Apr13", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/easter.png"},
       "timeAdded": "",
       "messageText": "(4) Apr 13 : MON Easter Monday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q2.jpg\"/> <hr/><hr/> Gardening",
       "fromUser": "LifeHacks"
     },
     {
-      "id": 7,
-      "data": {"date":"2020-04-25T00:00:20.000Z","eventText":"Apr", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/Shiva.png"},
+      "id": 5,
+      "data": {"date":"2020-04-25T00:00:20.000Z","eventText":"Apr25", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/anzacDay.png"},
       "timeAdded": "",
       "messageText": "(5) Apr 25 : SAT Anzac Day <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q2.jpg\"/> <hr/><hr/> Rain Rain Rain",
       "fromUser": "LifeHacks"
     },
     {
-      "id": 10,
-      "data": {"date":"2020-06-08T00:00:20.000Z","eventText":"Apr", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/Shiva.png"},
+      "id": 6,
+      "data": {"date":"2020-06-08T00:00:20.000Z","eventText":"Jun08", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/queensBirthday.png"},
       "timeAdded": "",
       "messageText": "(6) Jun 08 : MON Queen's Birthday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q2.jpg\"/> <hr/><hr/> Cleaning",
       "fromUser": "LifeHacks"
     },
     {
-      "id": 10,
-      "data": {"date":"2020-06-08T00:00:20.000Z","eventText":"Apr", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/Shiva.png"},
+      "id": 7,
+      "data": {"date":"2020-08-03T00:00:20.000Z","eventText":"Aug03", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/bank.png"},
       "timeAdded": "",
       "messageText": "(7) Aug 03 : MON Bank Holiday ",
       "fromUser": "LifeHacks"
     },
     {
-      "id": 11,
-      "data": {"date":"2020-10-05T00:00:20.000Z","eventText":"Apr", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/Shiva.png"},
+      "id": 8,
+      "data": {"date":"2020-10-05T00:00:20.000Z","eventText":"Sep05", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/LabourDay.png"},
       "timeAdded": "",
       "messageText": "(8) Oct 05 : MON Labour Day <hr/> ",
       "fromUser": "LifeHacks"
     },
     {
-      "id": 12,
-      "data": {"date":"2020-12-25T00:00:20.000Z","eventText":"Apr", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/Shiva.png"},
+      "id": 9,
+      "data": {"date":"2020-12-25T00:00:20.000Z","eventText":"Dec25", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/Christmas.png"},
       "timeAdded": "",
       "messageText": "(9) Dec 25 : FRI Christmas Day <hr/> ",
       "fromUser": "LifeHacks"
     },
     {
-      "id": 13,
-      "data": {"date":"2020-12-28T00:00:20.000Z","eventText":"Apr", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/Shiva.png"},
+      "id": 10,
+      "data": {"date":"2020-12-28T00:00:20.000Z","eventText":"Dec28", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/BoxingDay.png"},
       "timeAdded": "",
       "messageText": "(10) Dec 28 : MON Boxing Day <hr/>",
       "fromUser": "LifeHacks"
