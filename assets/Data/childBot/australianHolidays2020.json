@@ -43,21 +43,21 @@
       "id": 4,
       "data": {"date":"2020-04-13T00:00:20.000Z","eventText":"Apr13", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/easter.png"},
       "timeAdded": "",
-      "messageText": "(4) Apr 13 : MON Easter Monday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q2.jpg\"/> <hr/><hr/> Gardening",
+      "messageText": "(4) Apr 13 : MON Easter Monday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q2.jpg\"/> <hr/><hr/>Home Quarantine. Movies, Sitcom and a bit of Gardening",
       "fromUser": "LifeHacks"
     },
     {
       "id": 5,
       "data": {"date":"2020-04-25T00:00:20.000Z","eventText":"Apr25", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/anzacDay.png"},
       "timeAdded": "",
-      "messageText": "(5) Apr 25 : SAT Anzac Day <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q2.jpg\"/> <hr/><hr/> Rain Rain Rain",
+      "messageText": "(5) Apr 25 : SAT Anzac Day <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q3.jpg\"/> <hr/><hr/> Rain Rain Rain",
       "fromUser": "LifeHacks"
     },
     {
       "id": 6,
       "data": {"date":"2020-06-08T00:00:20.000Z","eventText":"Jun08", "eventIcon":"https://arunsreekumar.com/assets/Images/Calendar/queensBirthday.png"},
       "timeAdded": "",
-      "messageText": "(6) Jun 08 : MON Queen's Birthday <hr/> <img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/Q2.jpg\"/> <hr/><hr/> Cleaning",
+      "messageText": "(6) Jun 08 : MON Queen's Birthday <hr/> Cleaning sprint <hr/>Before <hr/><img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/cleaning.jpg\"/> <hr/>After<hr/><img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifeHacks/afterCleaning.jpg\"/>",
       "fromUser": "LifeHacks"
     },
     {
