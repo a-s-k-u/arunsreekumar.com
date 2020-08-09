@@ -13,6 +13,6 @@
     "subConversations":[
     ],
     "messages":[
-      {"id" :0,"timeAdded" : "","messageText": "<u onclick='callAngularFunction(\"Australian Holidays 2020\")'>Australian Holidays 2020</u>","fromUser": "LifeHacks"}
+      {"id" :0,"timeAdded" : "","messageText": "<u onclick='callAngularFunction(\"Australian Holidays 2020\")'>Australian Holidays 2020</u> gone by ","fromUser": "LifeHacks"}
     ]
 }
