@@ -7,7 +7,7 @@
     "validationMessage": "How can I help you ?",
     "matches":[
         {"matchPattern":"Apps in my phone","matchType":"static", "matchParam": "","matchVal":"myIphoneapps","matchGroup":0 },
-        {"matchPattern":"Apps in my PC","matchType":"static", "matchParam": "","matchVal":"myPcApps","matchGroup":0 }
+        {"matchPattern":"PC App Usage","matchType":"static", "matchParam": "","matchVal":"myPcApps","matchGroup":0 }
     ],
     "vocabulary":[
     ],
@@ -15,6 +15,6 @@
     ],
     "messages":[
       {"id" :1,"timeAdded" : "","messageText": "Apps in my phone<button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"Apps in my phone\");'> >>ask this</button>","fromUser": "technologyHacks"},
-      {"id" :1,"timeAdded" : "","messageText": "Apps in my PC<button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"Apps in my PC\");'> >>ask this</button>","fromUser": "technologyHacks"}
+      {"id" :1,"timeAdded" : "","messageText": "my PC App Usage <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"PC App Usage\");'> >>ask this</button>","fromUser": "technologyHacks"}
     ]
 }
