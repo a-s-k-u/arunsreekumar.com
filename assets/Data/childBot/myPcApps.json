@@ -20,42 +20,42 @@
   "messages": [
     {
       "id": 1,
-      "data": {"category": 0, "name": "Spotify", "r": 30 },
+      "data": {"category": 0, "name": "Spotify", "r": 40 },
       "timeAdded": "",
       "messageText": "1. Spotify Desktop <hr/> Listening music in desktop. Never used it but.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 2,
-      "data": {"category": 0, "name": "Netflix", "r": 20 },
+      "data": {"category": 0, "name": "Netflix", "r": 17 },
       "timeAdded": "",
       "messageText": "10. Netflix <hr/> Watching movies",
       "fromUser": "technologyHacks"
     },
     {
       "id": 3,
-      "data": {"category": 0, "name": "Prime", "r": 10 },
+      "data": {"category": 0, "name": "Prime", "r": 7 },
       "timeAdded": "",
       "messageText": "10. Amazon Prime <hr/> Watching movies",
       "fromUser": "technologyHacks"
     },
     {
       "id": 4,
-      "data": {"category":1, "name": "Word", "r": 10 },
+      "data": {"category":1, "name": "Word", "r": 5 },
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 5,
-      "data": {"category": 1, "name": "Excel", "r": 10 },
+      "data": {"category": 1, "name": "Excel", "r": 5 },
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 6,
-      "data": {"category": 1, "name": "Powerpoint", "r": 10 },
+      "data": {"category": 1, "name": "Powerpoint", "r": 5 },
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
@@ -76,28 +76,28 @@
     },
     {
       "id": 9,
-      "data": {"category": 2, "name": "Firefox", "r": 25 },
+      "data": {"category": 2, "name": "Firefox", "r": 45 },
       "timeAdded": "",
       "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
       "fromUser": "technologyHacks"
     },
     {
       "id": 10,
-      "data": {"category": 2, "name": "Chrome", "r": 20 },
+      "data": {"category": 2, "name": "Chrome", "r": 60 },
       "timeAdded": "",
       "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
       "fromUser": "technologyHacks"
     },
     {
       "id": 11,
-      "data": {"category": 3, "name": "VS 2019", "r": 20 },
+      "data": {"category": 3, "name": "VS 2019", "r": 10 },
       "timeAdded": "",
       "messageText": "4. Visual Studio 2019 Community Edition(Free)<hr/> Development IDE",
       "fromUser": "technologyHacks"
     },
     {
       "id": 12,
-      "data": {"category": 3, "name": "VS Code", "r": 20 },
+      "data": {"category": 3, "name": "VS Code", "r": 50 },
       "timeAdded": "",
       "messageText": "5. Visual Studio Code (Free)<hr/> ",
       "fromUser": "technologyHacks"
