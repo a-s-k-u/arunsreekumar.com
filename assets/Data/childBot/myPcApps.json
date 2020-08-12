@@ -20,14 +20,14 @@
   "messages": [
     {
       "id": 1,
-      "data": {"category": 0, "name": "Spotify", "r": 20 },
+      "data": {"category": 0, "name": "Spotify", "r": 30 },
       "timeAdded": "",
       "messageText": "1. Spotify Desktop <hr/> Listening music in desktop. Never used it but.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 2,
-      "data": {"category": 0, "name": "Netflix", "r": 10 },
+      "data": {"category": 0, "name": "Netflix", "r": 20 },
       "timeAdded": "",
       "messageText": "10. Netflix <hr/> Watching movies",
       "fromUser": "technologyHacks"
@@ -41,21 +41,21 @@
     },
     {
       "id": 4,
-      "data": {"category":1, "name": "Word", "r": 5 },
+      "data": {"category":1, "name": "Word", "r": 10 },
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 5,
-      "data": {"category": 1, "name": "Excel", "r": 5 },
+      "data": {"category": 1, "name": "Excel", "r": 10 },
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 6,
-      "data": {"category": 1, "name": "Powerpoint", "r": 5 },
+      "data": {"category": 1, "name": "Powerpoint", "r": 10 },
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
