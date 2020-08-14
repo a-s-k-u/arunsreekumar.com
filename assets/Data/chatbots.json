@@ -117,6 +117,15 @@
         "messages" : []
     },
     {
+        "name" : "Stories",
+        "system" : "stories",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/Users/androidK.jpg",
+        "isActive" : true,
+        "statusMessage" : "I am Android Kunjan v2.5",
+        "messages" : []
+    },
+    {
         "name" : "something else",
         "system" : "childBot",
         "url" : "",

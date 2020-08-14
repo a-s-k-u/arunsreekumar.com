@@ -1,0 +1,18 @@
+{
+    "conversationName" : "root",
+    "targetParam"      : "mLoadChildBot",
+    "targetValue"      : "",
+    "continueOnMatch"  : false,
+    "confidence"       : 1,
+    "validationMessage": "How can I help you ?",
+    "matches":[
+        {"matchPattern":"Whole Story of Ramayana in 4 lines","matchType":"static", "matchParam": "","matchVal":"ekaSlokaRamayana","matchGroup":0 }
+    ],
+    "vocabulary":[
+    ],
+    "subConversations":[
+    ],
+    "messages":[
+      {"id" :1,"timeAdded" : "","messageText": "Whole Story of Ramayana in 4 lines<button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"Whole Story of Ramayana in 4 lines\");'> >>ask this</button>","fromUser": "stories"}
+    ]
+}
