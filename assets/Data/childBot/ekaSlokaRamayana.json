@@ -4,7 +4,7 @@
   "targetValue": "dummy",
   "continueOnMatch": false,
   "confidence": 1,
-  "bannerName" : "ForceLayout",
+  "bannerName" : "SlideShow",
   "validationMessage": "How can I help you ?",
   "matches": [
     {
@@ -20,163 +20,58 @@
   "messages": [
     {
       "id": 1,
-      "data": {"category": 0, "name": "Spotify", "r": 30 },
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
       "timeAdded": "",
       "messageText": "1. Spotify Desktop <hr/> Listening music in desktop. Never used it but.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 2,
-      "data": {"category": 0, "name": "Netflix", "r": 14 },
+      "data": {"title": "second Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
       "timeAdded": "",
       "messageText": "10. Netflix <hr/> Watching movies",
       "fromUser": "technologyHacks"
     },
     {
       "id": 3,
-      "data": {"category": 0, "name": "Prime", "r": 12 },
+      "data": {"title": "third Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
       "timeAdded": "",
       "messageText": "10. Amazon Prime <hr/> Watching movies",
       "fromUser": "technologyHacks"
     },
     {
       "id": 4,
-      "data": {"category":1, "name": "Word", "r": 10 },
+      "data": {"title": "fourth Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 5,
-      "data": {"category": 1, "name": "Excel", "r": 10 },
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 6,
-      "data": {"category": 1, "name": "Powerpoint", "r": 10 },
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 7,
-      "data": {"category": 2, "name": "IE", "r": 7 },
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
       "timeAdded": "",
       "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
       "fromUser": "technologyHacks"
     },
     {
       "id": 8,
-      "data": {"category": 2, "name": "Edge", "r": 10 },
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
       "timeAdded": "",
       "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 9,
-      "data": {"category": 2, "name": "Firefox", "r": 30 },
-      "timeAdded": "",
-      "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 10,
-      "data": {"category": 2, "name": "Chrome", "r": 30 },
-      "timeAdded": "",
-      "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 11,
-      "data": {"category": 3, "name": "VS 2019", "r": 10 },
-      "timeAdded": "",
-      "messageText": "4. Visual Studio 2019 Community Edition(Free)<hr/> Development IDE",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 12,
-      "data": {"category": 3, "name": "VS Code", "r": 40 },
-      "timeAdded": "",
-      "messageText": "5. Visual Studio Code (Free)<hr/> ",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 13,
-      "data": {"category": 3, "name": "Console apps", "r": 20 },
-      "timeAdded": "",
-      "messageText": "14. A whole lot of Console Apps. Git (Free / Open Source), nginx, Angular CLI",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 14,
-      "data": {"category": 4, "name": "Teams", "r": 10 },
-      "timeAdded": "",
-      "messageText": "6. WebEx Teams <hr/> Chat",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 15,
-      "data": {"category": 4, "name": "Meet", "r": 20 },
-      "timeAdded": "",
-      "messageText": "7. WebEx Meet <hr/> Video Conferencing",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 16,
-      "data": {"category": 5, "name": "One Note", "r": 10 },
-      "timeAdded": "",
-      "messageText": "8. Evernote <hr/> Notetaking application",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 17,
-      "data": {"category": 5, "name": "Evernote", "r": 20 },
-      "timeAdded": "",
-      "messageText": "8. Evernote <hr/> Notetaking application",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 21,
-      "data": {"category": 5, "name": "Paint.Net", "r": 25 },
-      "timeAdded": "",
-      "messageText": "12. Paint .Net (Free / Open Source) <hr/> My photoshopping App",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 21,
-      "data": {"category": 5, "name": "InkScape", "r": 20 },
-      "timeAdded": "",
-      "messageText": "12. Paint .Net (Free / Open Source) <hr/> My photoshopping App",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 18,
-      "data": {"category": 5, "name": "Sketchbook", "r": 7 },
-      "timeAdded": "",
-      "messageText": "13. Autodesk Sketch book <hr/>Drawing",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 19,
-      "data": {"category": 6, "name": "Blender", "r": 15 },
-      "timeAdded": "",
-      "messageText": "9. Blender (Free / Open Source)<hr/> Interest in 3D Modelling ",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 20,
-      "data": {"category": 6, "name": "OBS", "r": 15 },
-      "timeAdded": "",
-      "messageText": "11. OBS Studio (Free / Open Source) <hr/> Experimenting with Streaming / Recording",
-      "fromUser": "technologyHacks"
-    },
-    {
-      "id": 22,
-      "data": {"category": 6, "name": "IP Scanner", "r": 10 },
-      "timeAdded": "",
-      "messageText": "13. Angry IP Scanner (Free / Open Source) <hr/> Curiosity to check the functionality",
       "fromUser": "technologyHacks"
     }
   ]
