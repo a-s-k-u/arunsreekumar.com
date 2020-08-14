@@ -108,17 +108,17 @@
         "messages" : []
     },
     {
-        "name" : "AndroidKunjappan",
-        "system" : "aKunjappan",
+        "name" : "Stories",
+        "system" : "Stories",
         "url" : "",
-        "avatar" : "https://arunsreekumar.com/assets/Images/Users/androidK.jpg",
+        "avatar" : "https://arunsreekumar.com/assets/Images/Users/stories.jpg",
         "isActive" : true,
-        "statusMessage" : "I am Android Kunjan v2.5",
+        "statusMessage" : "Stories from tales",
         "messages" : []
     },
     {
-        "name" : "Stories",
-        "system" : "stories",
+        "name" : "AndroidKunjappan",
+        "system" : "aKunjappan",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/Users/androidK.jpg",
         "isActive" : true,
