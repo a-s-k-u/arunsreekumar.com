@@ -20,6 +20,13 @@
   "messages": [
     {
       "id": 1,
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_00.png"},
+      "timeAdded": "",
+      "messageText": "This is the complete journey of Rama in short.",
+      "fromUser": "ValmikiMuni"
+    },
+    {
+      "id": 1,
       "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_02.png"},
       "timeAdded": "",
       "messageText": " <b>Poorvam Rama thapo vanadi gamanam, </b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>Once Rama went to forest</i>",
@@ -48,42 +55,42 @@
     },
     {
       "id": 5,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_05.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_06.png"},
       "timeAdded": "",
       "messageText": "<b>Sugreeva sambhashanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>There were talks with Sugreeva</i>",
       "fromUser": "ValmikiMuni"
     },
     {
       "id": 6,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_07.png"},
       "timeAdded": "",
       "messageText": "<b>Bali nigrahanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>Bali was killed</i>",
       "fromUser": "ValmikiMuni"
     },
     {
       "id": 7,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_08.png"},
       "timeAdded": "",
       "messageText": "<b>samudhra tharanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>The sea was crossed</i>",
       "fromUser": "ValmikiMuni"
     },
     {
       "id": 8,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_09.png"},
       "timeAdded": "",
       "messageText": "<b>Lanka pureem dahanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>Lanka was burnt,</i>",
       "fromUser": "ValmikiMuni"
     },
     {
       "id": 9,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_10.png"},
       "timeAdded": "",
       "messageText": "<b>Paschad Ravana Kumbha karna madanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>And later Ravana and Kumbha karna were also killed</i>",
       "fromUser": "ValmikiMuni"
     },
     {
       "id": 10,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_10.png"},
       "timeAdded": "",
       "messageText": "<b>Ethat ithi Ramayanam.</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>This in short is the story of Ramayanam.</i>",
       "fromUser": "ValmikiMuni"
