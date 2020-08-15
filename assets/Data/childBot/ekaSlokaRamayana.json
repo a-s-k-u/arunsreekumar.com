@@ -20,35 +20,35 @@
   "messages": [
     {
       "id": 1,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
       "messageText": "1. Spotify Desktop <hr/> Listening music in desktop. Never used it but.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 2,
-      "data": {"title": "second Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
+      "data": {"title": "second Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
       "messageText": "10. Netflix <hr/> Watching movies",
       "fromUser": "technologyHacks"
     },
     {
       "id": 3,
-      "data": {"title": "third Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
+      "data": {"title": "third Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
       "messageText": "10. Amazon Prime <hr/> Watching movies",
       "fromUser": "technologyHacks"
     },
     {
       "id": 4,
-      "data": {"title": "fourth Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
+      "data": {"title": "fourth Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 5,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
