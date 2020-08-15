@@ -20,35 +20,35 @@
   "messages": [
     {
       "id": 1,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_00.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_02.png"},
       "timeAdded": "",
       "messageText": " <b>Poorvam Rama thapo vanadi gamanam, </b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>Once Rama went to forest</i>",
       "fromUser": "ValmikiMuni"
     },
     {
       "id": 2,
-      "data": {"title": "second Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_02.png"},
+      "data": {"title": "second Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_03.png"},
       "timeAdded": "",
       "messageText": "<b>Hathwa mrugam kanchanam, </b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>He chased the deer</i>",
       "fromUser": "ValmikiMuni"
     },
     {
       "id": 3,
-      "data": {"title": "third Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_03.png"},
+      "data": {"title": "third Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_04.png"},
       "timeAdded": "",
       "messageText": "<b>Vaidehi haranam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i> Sitha was kidnapped</i>",
       "fromUser": "ValmikiMuni"
     },
     {
       "id": 4,
-      "data": {"title": "fourth Slide", "url": "https://arunsreekumar.com/assets/Images/lifeHacks/Q2.jpg"},
+      "data": {"title": "fourth Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_05.png"},
       "timeAdded": "",
       "messageText": "<b>jatayu maranam,</b> <hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>Jatayu was killed</i>",
       "fromUser": "ValmikiMuni"
     },
     {
       "id": 5,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_03.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_05.png"},
       "timeAdded": "",
       "messageText": "<b>Sugreeva sambhashanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>There were talks with Sugreeva</i>",
       "fromUser": "ValmikiMuni"
