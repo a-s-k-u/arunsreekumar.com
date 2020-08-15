@@ -22,57 +22,71 @@
       "id": 1,
       "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
-      "messageText": "1. Spotify Desktop <hr/> Listening music in desktop. Never used it but.",
-      "fromUser": "technologyHacks"
+      "messageText": " <b>Aadho Rama thapo vananu gamanam, </b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>Once Rama went to forest</i>",
+      "fromUser": "ValmikiMuni"
     },
     {
       "id": 2,
       "data": {"title": "second Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_01.png"},
       "timeAdded": "",
-      "messageText": "10. Netflix <hr/> Watching movies",
-      "fromUser": "technologyHacks"
+      "messageText": "<b>Hathwa mrugam kanchanam, </b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>He chased the deer</i>",
+      "fromUser": "ValmikiMuni"
     },
     {
       "id": 3,
       "data": {"title": "third Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
-      "messageText": "10. Amazon Prime <hr/> Watching movies",
-      "fromUser": "technologyHacks"
+      "messageText": "<b>Vaidehi haranam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i> Sitha was kidnapped</i>",
+      "fromUser": "ValmikiMuni"
     },
     {
       "id": 4,
       "data": {"title": "fourth Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_01.png"},
       "timeAdded": "",
-      "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
-      "fromUser": "technologyHacks"
+      "messageText": "<b>jatayu maranam,</b> <hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>Jatayu was killed</i>",
+      "fromUser": "ValmikiMuni"
     },
     {
       "id": 5,
       "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
-      "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
-      "fromUser": "technologyHacks"
+      "messageText": "<b>Sugreeva sambhashanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>There were talks with Sugreeva</i>",
+      "fromUser": "ValmikiMuni"
     },
     {
       "id": 6,
       "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
-      "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
-      "fromUser": "technologyHacks"
+      "messageText": "<b>Bali nigrahanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>Bali was killed</i>",
+      "fromUser": "ValmikiMuni"
     },
     {
       "id": 7,
       "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
-      "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
-      "fromUser": "technologyHacks"
+      "messageText": "<b>samudhra tharanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>The sea was crossed</i>",
+      "fromUser": "ValmikiMuni"
     },
     {
       "id": 8,
       "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
-      "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
-      "fromUser": "technologyHacks"
+      "messageText": "<b>Lanka pureem dahanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>Lanka was burnt,</i>",
+      "fromUser": "ValmikiMuni"
+    },
+    {
+      "id": 9,
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
+      "timeAdded": "",
+      "messageText": "<b>Paschad Ravana Kumbha karna madanam,</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>And later Ravana and Kumbha karna were also killed</i>",
+      "fromUser": "ValmikiMuni"
+    },
+    {
+      "id": 10,
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
+      "timeAdded": "",
+      "messageText": "<b>Ethat ithi Ramayanam.</b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/><i>This in short is the story of Ramayanam.</i>",
+      "fromUser": "ValmikiMuni"
     }
   ]
 }
