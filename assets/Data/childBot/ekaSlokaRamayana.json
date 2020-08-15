@@ -20,14 +20,14 @@
   "messages": [
     {
       "id": 1,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_background.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_00.png"},
       "timeAdded": "",
       "messageText": " <b>Poorvam Rama thapo vanadi gamanam, </b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>Once Rama went to forest</i>",
       "fromUser": "ValmikiMuni"
     },
     {
       "id": 2,
-      "data": {"title": "second Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_01.png"},
+      "data": {"title": "second Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_01.png"},
       "timeAdded": "",
       "messageText": "<b>Hathwa mrugam kanchanam, </b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>He chased the deer</i>",
       "fromUser": "ValmikiMuni"
