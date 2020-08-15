@@ -27,7 +27,7 @@
     },
     {
       "id": 2,
-      "data": {"title": "second Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
+      "data": {"title": "second Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_01.png"},
       "timeAdded": "",
       "messageText": "10. Netflix <hr/> Watching movies",
       "fromUser": "technologyHacks"
@@ -41,7 +41,7 @@
     },
     {
       "id": 4,
-      "data": {"title": "fourth Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
+      "data": {"title": "fourth Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_01.png"},
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
@@ -55,21 +55,21 @@
     },
     {
       "id": 6,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
       "messageText": "2. Microsoft Office <hr/> Word, Excel, Powerpoint.",
       "fromUser": "technologyHacks"
     },
     {
       "id": 7,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
       "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
       "fromUser": "technologyHacks"
     },
     {
       "id": 8,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
       "timeAdded": "",
       "messageText": "3. Browser (Free)<hr/> IE, Edge,Firefox,Chrome ",
       "fromUser": "technologyHacks"
