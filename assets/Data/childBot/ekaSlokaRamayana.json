@@ -20,9 +20,9 @@
   "messages": [
     {
       "id": 1,
-      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Rama_Base.png"},
+      "data": {"title": "first Slide", "url": "https://arunsreekumar.com/assets/Images/Stories/Rama/Slide_background.png"},
       "timeAdded": "",
-      "messageText": " <b>Aadho Rama thapo vananu gamanam, </b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>Once Rama went to forest</i>",
+      "messageText": " <b>Poorvam Rama thapo vanadi gamanam, </b><hr style=\"height: 1px;background-color: #ccc;border: none;\"/> <i>Once Rama went to forest</i>",
       "fromUser": "ValmikiMuni"
     },
     {
