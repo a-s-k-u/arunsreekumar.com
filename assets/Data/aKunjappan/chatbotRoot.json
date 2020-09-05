@@ -6,13 +6,25 @@
     "confidence"       : 1,
     "validationMessage": "How can I help you ?",
     "matches":[
-      {"matchPattern":"edavom","matchType":"static", "matchParam": "","matchVal":"edavom","matchGroup":0 }
+      {"matchPattern":"chingam","matchType":"static", "matchParam": "","matchVal":"chingam","matchGroup":0 },
+      {"matchPattern":"kanni","matchType":"static", "matchParam": "","matchVal":"kanni","matchGroup":0 },
+      {"matchPattern":"thulam","matchType":"static", "matchParam": "","matchVal":"thulam","matchGroup":0 },
+      {"matchPattern":"vrishchikam","matchType":"static", "matchParam": "","matchVal":"vrishchikam","matchGroup":0 },
+      {"matchPattern":"dhanu","matchType":"static", "matchParam": "","matchVal":"dhanu","matchGroup":0 },
+      {"matchPattern":"makaram","matchType":"static", "matchParam": "","matchVal":"makaram","matchGroup":0 },
+      {"matchPattern":"kumbham","matchType":"static", "matchParam": "","matchVal":"kumbham","matchGroup":0 },
+      {"matchPattern":"meenam","matchType":"static", "matchParam": "","matchVal":"meenam","matchGroup":0 },
+      {"matchPattern":"medam","matchType":"static", "matchParam": "","matchVal":"medam","matchGroup":0 },
+      {"matchPattern":"edavom","matchType":"static", "matchParam": "","matchVal":"edavom","matchGroup":0 },
+      {"matchPattern":"midhunam","matchType":"static", "matchParam": "","matchVal":"midhunam","matchGroup":0 },
+      {"matchPattern":"karkadakam","matchType":"static", "matchParam": "","matchVal":"karkadakam","matchGroup":0 }
     ],
     "vocabulary":[
     ],
     "subConversations":[
     ],
     "messages":[
-      {"id" :0,"timeAdded" : "","messageText": "Show calendar for <u onclick='callAngularFunction(\"edavom(ഇടവ മാസം)\")'>ഇടവ മാസം</u>","fromUser": "aKunjappan"}
+      {"id" :1,"timeAdded" : "","messageText": "Show calendar for <br/> 1.) <u onclick='callAngularFunction(\"chingam\")'>chingam</u> Aug-Sep<br/> 2.) <u onclick='callAngularFunction(\"kanni\")'>kanni</u> Sep-Oct<br/> 3.) <u onclick='callAngularFunction(\"thulam\")'>thulam</u> Oct- Nov<br/> 4.) <u onclick='callAngularFunction(\"vrishchikam\")'>vrishchikam</u> Nov-Dec<br/> 5.) <u onclick='callAngularFunction(\"dhanu\")'>dhanu</u> Dec-Jan<br/> 6.) <u onclick='callAngularFunction(\"makaram\")'>makaram</u> Jan-Feb<br/> 7.) <u onclick='callAngularFunction(\"kumbham\")'>kumbham</u> Feb-Mar<br/> 8.) <u onclick='callAngularFunction(\"meenam\")'>meenam</u> Mar-Apr<br/> 9.) <u onclick='callAngularFunction(\"medam\")'>medam</u> Apr-May<br/> 10.) <u onclick='callAngularFunction(\"edavom\")'>edavom</u> May-Jun<br/> 11.) <u onclick='callAngularFunction(\"midhunam\")'>midhunam</u> Jun-Jul<br/> 12.) <u onclick='callAngularFunction(\"karkadakam\")'>karkadakam</u> Jul-Aug","fromUser": "aKunjappan"}
+
     ]
 }
