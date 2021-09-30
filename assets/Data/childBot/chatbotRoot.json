@@ -23,7 +23,9 @@
       {"matchPattern":"myPcApps","matchType":"static", "matchParam": "","matchVal":"myPcApps","matchGroup":0 },
       {"matchPattern":"myIOSApps","matchType":"static", "matchParam": "","matchVal":"myIOSApps","matchGroup":0 },
       {"matchPattern":"ekaSlokaRamayana","matchType":"static", "matchParam": "","matchVal":"ekaSlokaRamayana","matchGroup":0 },
-      {"matchPattern":"Australian Holidays 2020","matchType":"static", "matchParam": "","matchVal":"australianHolidays2020","matchGroup":0 }
+      {"matchPattern":"Australian Holidays 2020","matchType":"static", "matchParam": "","matchVal":"australianHolidays2020","matchGroup":0 },
+      {"matchPattern":"photoshop","matchType":"static", "matchParam": "","matchVal":"otherToolsPhotoshop","matchGroup":0 },
+      {"matchPattern":"oldMovieReviews","matchType":"static", "matchParam": "","matchVal":"oldMovieReviews","matchGroup":1 }
     ],
     "vocabulary":[
     ],

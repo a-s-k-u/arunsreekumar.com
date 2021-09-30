@@ -6,7 +6,9 @@
     "confidence"       : 1,
     "validationMessage": "How can I help you ?",
     "matches":[
-      {"matchPattern":"Australian Holidays 2020","matchType":"static", "matchParam": "","matchVal":"Australian Holidays 2020","matchGroup":0 }
+      {"matchPattern":"Australian Holidays 2020","matchType":"static", "matchParam": "","matchVal":"Australian Holidays 2020","matchGroup":0 },
+      {"matchPattern":"tools to replace photoshop","matchType":"static", "matchParam": "","matchVal":"tools to replace photoshop","matchGroup":0 }
+
     ],
     "vocabulary":[
     ],
@@ -14,10 +16,20 @@
     ],
     "messages":[
       {"id" :0,"timeAdded" : "","messageText": "A lot can tell about a person by looking at how he spend his holidays. Lookin at mine, I think it's time for a reboot","fromUser": "LifeHacks"},
-      {"id" :1,"timeAdded" : "","messageText": "<u onclick='callAngularFunction(\"Australian Holidays 2020\")'>How did you spend urs</u>","fromUser": "ME"},
-      {"id" :2,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"./assets/Images/lifeHacks/Fat_Measure.jpg\"/> Do you know how fat gets out of your body ?","fromUser": "LifeHacks"},
-      {"id" :3,"timeAdded" : "","messageText": "urine ? sweat ? tell me","fromUser": "ME"},
-      {"id" :4,"timeAdded" : "","messageText": "Neither","fromUser": "LifeHacks"},
-      {"id" :5,"timeAdded" : "","messageText": "Then, what is it ?","fromUser": "ME"}
+      {"id" :1,"timeAdded" : "","messageText": "<u onclick='callAngularFunction(\"Australian Holidays 2020\")'>How did you spend urs ? </u>","fromUser": "ME"},
+      {"id" :2,"timeAdded" : "","messageText": "I have removed the electric lines in this pic without photoshop","fromUser": "LifeHacks"},
+      {"id" :3,"timeAdded" : "","messageText": "<u onclick='callAngularFunction(\"tools to replace photoshop\")'>What tool did you use ?</u>","fromUser": "ME"}
+
+    ],
+    "messages_old":[
+      {"id" :1,"timeAdded" : "","messageText": "<u onclick='callAngularFunction(\"Australian Holidays 2020\")'>How did you spend urs ? </u>","fromUser": "ME"},
+      {"id" :4,"timeAdded" : "","messageText": "I think it won't be long before we all get vaccinated.","fromUser": "LifeHacks"},
+      {"id" :5,"timeAdded" : "","messageText": "What are the different vaccines out there ?","fromUser": "ME"},
+      {"id" :5,"timeAdded" : "","messageText": "How to get vaccinated in Australia ?","fromUser": "ME"},
+      {"id" :5,"timeAdded" : "","messageText": "Some useful COVID links and apps in Australia","fromUser": "ME"},
+      {"id" :5,"timeAdded" : "","messageText": "How to get vaccinated in India ?","fromUser": "ME"},
+      {"id" :5,"timeAdded" : "","messageText": "Some useful COVID links and apps in India","fromUser": "ME"},
+      {"id" :2,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"./assets/Images/lifeHacks/Fat_Measure.jpg\"/> Do you know how exactly fat gets out of your body ? PS: Knowing this will reveal the secret of fat loss.","fromUser": "LifeHacks"},
+      {"id" :3,"timeAdded" : "","messageText": "It has to be through urine, seat or shit right ? or better - tell me","fromUser": "ME"}
     ]
 }

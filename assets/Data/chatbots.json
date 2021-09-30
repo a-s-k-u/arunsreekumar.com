@@ -40,8 +40,17 @@
         "system" : "Passtime",
         "url" : "",
         "avatar" : "https://arunsreekumar.com/assets/Images/passtime.png",
-        "isActive" : true,
+        "isActive" : false,
         "statusMessage" : "Please take me seriously...",
+        "messages" : []
+    },
+    {
+        "name" : "MyDiary",
+        "system" : "MyDiary",
+        "url" : "",
+        "avatar" : "https://arunsreekumar.com/assets/Images/passtime.png",
+        "isActive" : true,
+        "statusMessage" : "What I normally do...",
         "messages" : []
     },
     {

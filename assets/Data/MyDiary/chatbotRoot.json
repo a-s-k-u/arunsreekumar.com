@@ -1,0 +1,32 @@
+{
+    "conversationName" : "root",
+    "targetParam"      : "mLoadChildBot",
+    "targetValue"      : "",
+    "continueOnMatch"  : false,
+    "confidence"       : 1,
+    "validationMessage": "How can I help you ?",
+    "matches":[
+        {"matchPattern":"(anchamPathira|ancham pathira|അഞ്ചാം പാതിരാ)","matchType":"inline", "matchParam": "","matchVal":"oldMovieReviews","matchGroup":1 },
+        {"matchPattern":"Extraction","matchType":"static", "matchParam": "","matchVal":"extraction","matchGroup":0 }
+    ],
+    "vocabulary":[
+        {"text" : "anchaam", "keyword":"ancham"}
+    ],
+    "subConversations":[
+    ],
+    "messages":[
+        {"id" :1,"timeAdded" : "","messageText": "Dear Diary, I recently joined Clubhouse, and it's been amazing so far, and have been part of so many wonderful conversations. <img width=\"100%\" src=\"https://www.kostenlos.de/app/uploads/2021/01/Clubhouse_App-750x300.jpg\"/><br/> Now, how can I unhear a few ?","fromUser": "Passtime"},
+        {"id" :2,"timeAdded" : "","messageText": "Why ? What are they talking out there ?","fromUser": "ME"},
+        {"id" :2,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://i.dailymail.co.uk/1s/2020/12/16/00/36829968-9052209-Not_digging_him_Next_the_trailer_cuts_to_an_awkward_dinner_with_-a-43_1608077615392.jpg\"/> <br/> Dear Diary,<br/> I finished watching <b>Bridgeton</b>..twice...back to back... It's been a while I binge watched a Netflix series... NOT !","fromUser": "Passtime"},
+        {"id" :2,"timeAdded" : "","messageText": "Okay &#x1F926, What other series have you binge watched recently ?","fromUser": "ME"},
+        {"id" :2,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://tecnoblog.net/meiobit/wp-content/uploads/2021/05/vlcsnap-2021-05-24-18h31m17s582.jpg\"/>Dear Diary, <br/>I watched Army of the Dead in Netflix. The plot is so complex that I've written a detailed explanation so that I can refer back later.","fromUser": "Passtime"},
+        {"id" :2,"timeAdded" : "","messageText": "Okay..let's hear it.","fromUser": "ME"},
+        {"id" :2,"timeAdded" : "","messageText": "What are some other movies you watched recently.","fromUser": "ME"},
+        {"id" :2,"timeAdded" : "","messageText": "Dear Diary, I'm on Day 3 of the GM Diet when I got this message. Why is internet so cruel ?","fromUser": "Passtime"},
+        {"id" :2,"timeAdded" : "","messageText": "Tell me about it. So, just fruits and vegetables right ? So, what are you having ?","fromUser": "ME"},
+        {"id" :2,"timeAdded" : "","messageText": "Dear Diary, I'm on Day 3 of the GM Diet when I got this message. Why is internet so cruel ?","fromUser": "Passtime"},
+        {"id" :2,"timeAdded" : "","messageText": "Tell me about it. So, just fruits and vegetables right ? So, what are you having ?","fromUser": "ME"},
+        {"id" :0,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/passtime/ancham-pathira.jpg\"/>watched <u>anchaam pathira</u> movie. The plot is much more twisted than I originally thought. </br> <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"show the real conversation in ancham pathira movie between Dr benjamin Louis and Anwar Hussain\");'> >>ask</button>","fromUser": "(April)"},
+        {"id" :0,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/passtime/extraction.jpg\"/>Extraction movie explained in detail.</br><button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"tell me the story in Extraction\");'> >>ask</button> ","fromUser": ""}
+      ]
+}
