@@ -16,6 +16,7 @@
       {"id" :1,"timeAdded" : "","messageText": "So, I started off with this pic","fromUser": "LifeHacks"},
       {"id" :2,"timeAdded" : "","messageText": "...and","fromUser": "LifeHacks"},
       {"id" :3,"timeAdded" : "","messageText": "Look! I've removed the unwanted electric lines","fromUser": "LifeHacks"},
+      {"id" :300,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"https://arunsreekumar.com/assets/Images/lifehacks/photopeaPhotoshopped.png\"/>Extraction movie explained in detail.</br><button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"tell me the story in Extraction\");'> >>ask</button> ","fromUser": "full"},
       {"id" :4,"timeAdded" : "","messageText": "That's great news !! I think I may have a few pics like that which you ma love to work upon.","fromUser": "ME"},
       {"id" :5,"timeAdded" : "","messageText": "Naah! thanks.. But, there are a few free tools available there you can try yourself","fromUser": "LifeHacks"},
       {"id" :6,"timeAdded" : "","messageText": "I used photopea.com which is basically a website, but, is as powerful as photoshop. I used the clone tool in it.","fromUser": "LifeHacks"},
@@ -32,6 +33,6 @@
       {"id" :17,"timeAdded" : "","messageText": "<hr/>","fromUser": "full"},
       {"id" :18,"timeAdded" : "","messageText": "<hr/>","fromUser": "full"},
       {"id" :19,"timeAdded" : "","messageText": "<div class=\"head\"><div class=\"headerobjectswrapper\"><div class=\"headerrr\">Newpost York</div></div><div class=\"subhead\">York, MA - Thursday August 30, 1978 - Seven Pages</div></div>","fromUser": "full"},
-      {"id" :19,"timeAdded" : "","messageText": "<p style=\"font-family: 'Droid Serif', serif;font-size: 1em;color: #2f2f2f;background-color: #f9f7f1\">Hi guys, I am Ivan, the creator of Photopea :).I made almost $1 million in the last 12 months, 90% from ads. The rest is from Premium (users paying to hide ads) and licensing a self-hosted version of Photopea.When you start your own project, you never know, if it will ever make $250k a year. But if you get hired, you can be quite sure, that you will never make more than $250k a year.Follow Photopea to see my progress :) http://facebook.com/photopea , http://twitter.com/photopeacom </p>","fromUser": "full"}
+      {"id" :20,"timeAdded" : "","messageText": "<p style=\"font-family: 'Droid Serif', serif;font-size: 1em;color: #2f2f2f;background-color: #f9f7f1\">Hi guys, I am Ivan, the creator of Photopea :).I made almost $1 million in the last 12 months, 90% from ads. The rest is from Premium (users paying to hide ads) and licensing a self-hosted version of Photopea.When you start your own project, you never know, if it will ever make $250k a year. But if you get hired, you can be quite sure, that you will never make more than $250k a year.Follow Photopea to see my progress :) http://facebook.com/photopea , http://twitter.com/photopeacom </p>","fromUser": "full"}
     ]
 }
