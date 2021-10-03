@@ -17,8 +17,8 @@
     "messages":[
       {"id" :0,"timeAdded" : "","messageText": "A lot can tell about a person by looking at how he spend his holidays. Lookin at mine, I think it's time for a reboot","fromUser": "LifeHacks"},
       {"id" :1,"timeAdded" : "","messageText": "<u onclick='callAngularFunction(\"Australian Holidays 2020\")'>How did you spend urs ? </u>","fromUser": "ME"},
-      {"id" :2,"timeAdded" : "","messageText": "I have removed the electric lines in this pic without photoshop","fromUser": "LifeHacks"},
-      {"id" :3,"timeAdded" : "","messageText": "<u onclick='callAngularFunction(\"tools to replace photoshop\")'>What tool did you use ?</u>","fromUser": "ME"}
+      {"id" :2,"timeAdded" : "","messageText": "<img width=\"100%\" src=\"./assets/Images/lifeHacks/editedPics.png\"/>  <br/> I did this without photoshop","fromUser": "LifeHacks"},
+      {"id" :3,"timeAdded" : "","messageText": "<u onclick='callAngularFunction(\"tools to replace photoshop\")'>Okay..then, what tool did you use ?</u>","fromUser": "ME"}
 
     ],
     "messages_old":[
