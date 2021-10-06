@@ -7,7 +7,8 @@
     "validationMessage": "How can I help you ?",
     "matches":[
         {"matchPattern":"mobile APP Usage","matchType":"static", "matchParam": "","matchVal":"myIOSApps","matchGroup":0 },
-        {"matchPattern":"PC App Usage","matchType":"static", "matchParam": "","matchVal":"myPcApps","matchGroup":0 }
+        {"matchPattern":"PC App Usage","matchType":"static", "matchParam": "","matchVal":"myPcApps","matchGroup":0 },
+        {"matchPattern":"Git basics","matchType":"static", "matchParam": "","matchVal":"Git basics","matchGroup":0 }
     ],
     "vocabulary":[
     ],
@@ -15,6 +16,8 @@
     ],
     "messages":[
       {"id" :1,"timeAdded" : "","messageText": "my Mobile App Usage<button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"mobile APP Usage\");'> >>ask this</button>","fromUser": "technologyHacks"},
-      {"id" :1,"timeAdded" : "","messageText": "my PC App Usage <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"PC App Usage\");'> >>ask this</button>","fromUser": "technologyHacks"}
+      {"id" :2,"timeAdded" : "","messageText": "my PC App Usage <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"PC App Usage\");'> >>ask this</button>","fromUser": "technologyHacks"},
+      {"id" :3,"timeAdded" : "","messageText": "Git basics <button type='button' class='btn btn-outline-light btn-sm badge' onclick='callAngularFunction(\"Git basics\");'> >>ask this</button>","fromUser": "technologyHacks"}
+
     ]
 }
