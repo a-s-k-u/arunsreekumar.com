@@ -14,8 +14,8 @@
     ],
     "messages":[
       {"id" :1,"timeAdded" : "","messageText": "What is Git ? </br> who all use it and for what ?","fromUser": "ME"},
-      {"id" :2,"timeAdded" : "","messageText": "Git is a program used by a vast majority of Software developers. So, if you go to their machine, open command prompt ( terminal in mac) and type <kbd>git --version</kbd>, there is a good chance that it'll respond with the version of git installed in their machine.","fromUser": "technologyHacks"},
-      {"id" :1,"timeAdded" : "","messageText": "And, this program has a bunch of commands that will let it remember any changes to a specific folder and its file contents.","fromUser": "technologyHacks"},
+      {"id" :2,"timeAdded" : "","messageText": "Git is a program used by a vast majority of Software developers. It's now like a litmus test for programmers.So, if you go to a machine, open command prompt ( terminal in mac) and type <br/> <kbd>git --version</kbd> <br/>,and it responds with the version of git installed in their machine; then, there is a good chance he/she is a software developer.","fromUser": "technologyHacks"},
+      {"id" :1,"timeAdded" : "","messageText": "And, this program has a bunch of commands <kbd class=\"console\"><span>C:\\</span><span id=\"caption\"></span><span id=\"cursor\">|</span></kbd> that will let it remember any changes to a specific folder and its file contents.","fromUser": "technologyHacks"},
       {"id" :1,"timeAdded" : "","messageText": "One main benefit is that it'll allow you to undo changes even after a computer restart.","fromUser": "technologyHacks"},
       {"id" :1,"timeAdded" : "","messageText": "Wow!! that's really helpful.","fromUser": "ME"},
       {"id" :1,"timeAdded" : "","messageText": "What is Git ?","fromUser": "technologyHacks"},
