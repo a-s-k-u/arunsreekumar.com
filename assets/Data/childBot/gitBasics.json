@@ -15,7 +15,7 @@
     "messages":[
       {"id" :1,"timeAdded" : "","messageText": "What is Git ? </br> who all use it and for what ?","fromUser": "ME"},
       {"id" :2,"timeAdded" : "","messageText": "Git is a program used by a vast majority of Software developers.It has now become like a litmus test for programmers.So, if you go to someone's machine, open command prompt ( terminal in mac) and type <br/> <kbd class=\"typewriter-text\">git --version</kbd> <br/>,and it doesn't respond with an error; then, you know he/she is a software developer.","fromUser": "technologyHacks"},
-      {"id" :1,"timeAdded" : "","messageText": "And, this program has a bunch of commands <br/> <span class=\"gitCommandsWrapper\"><span class=\"gitCommands\">git clone</span></span> <br/>that will let it remember any changes to a specific folder and its file contents.","fromUser": "technologyHacks"},
+      {"id" :1,"timeAdded" : "","messageText": "And, this program has a <mark>bunch of commands </mark> that will let it remember any changes to a specific folder and its file contents.","fromUser": "technologyHacks"},
       {"id" :1,"timeAdded" : "","messageText": "One main benefit is that it'll allow you to undo changes even after a computer restart.","fromUser": "technologyHacks"},
       {"id" :1,"timeAdded" : "","messageText": "Wow!! that's really helpful.","fromUser": "ME"},
       {"id" :1,"timeAdded" : "","messageText": "What is Git ?","fromUser": "technologyHacks"},
