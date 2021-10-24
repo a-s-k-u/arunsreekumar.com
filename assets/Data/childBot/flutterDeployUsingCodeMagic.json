@@ -1,0 +1,39 @@
+{
+    "conversationName" : "flutterDeployUsingCodeMagic",
+    "targetParam"      : "Dummy",
+    "targetValue"      : "",
+    "continueOnMatch"  : false,
+    "confidence"       : 1,
+    "validationMessage": "How can I help you ?",
+    "matches":[
+        {"matchPattern":"(.*)","matchType":"inline", "matchParam": "","matchVal":"dummy","matchGroup":1 }
+    ],
+    "vocabulary":[
+    ],
+    "subConversations":[
+    ],
+    "messages":[
+      {"id" :1,"timeAdded" : "","messageText": "So, you don't have a MAC machine huh ! Don't worry much. I can deploy to iOS without you needing a MAC. All details can be found <a href=\"https://docs.codemagic.io/flutter-code-signing/ios-code-signing/\">here</a> actually.","fromUser": "CodeMagic"},
+      {"id" :2,"timeAdded" : "","messageText": "First you will have to create an account with us. Then, you'll have to configure your Github repository with us.","fromUser": "CodeMagic"},
+      {"id" :3,"timeAdded" : "","messageText": "Hey asku, CodeMagic is trying to ask permission to read stuff from your account. Is it legit ?","fromUser": "Github"},
+      {"id" :4,"timeAdded" : "","messageText": "Yeah! I was trying to deploy my flutter code","fromUser": "ME"},
+      {"id" :5,"timeAdded" : "","messageText": "In that case, I've given you a prompt. Just select only that repository that has flutter code. That way, if something goes wrong at any of these stuff, the other repositories are not impacted.","fromUser": "Github"},
+      {"id" :6,"timeAdded" : "","messageText": "Sure thing.","fromUser": "ME"},
+      {"id" :7,"timeAdded" : "","messageText": "Alright! I can see you've given permission; and yes! I can see your flutter code as well. Good stuff! I need one more thing from you.","fromUser": "CodeMagic"},
+      {"id" :8,"timeAdded" : "","messageText": "Now I need permission to access your <a href=\"https://appstoreconnect.apple.com/\">app store connect</a> as well. ","fromUser": "CodeMagic"},
+      {"id" :9,"timeAdded" : "","messageText": "What's this app store connect ? ","fromUser": "ME"},
+      {"id" :10,"timeAdded" : "","messageText": "Apple restricts all App deploys to real devices (including testing) through this gateway.","fromUser": "CodeMagic"},
+      {"id" :11,"timeAdded" : "","messageText": "You'd need to first create an account here - https://developer.apple.com/programs/enroll/. ","fromUser": "CodeMagic"},
+      {"id" :12,"timeAdded" : "","messageText": "Man! that's 150 AUD for me !!! and that too for only an year!","fromUser": "ME"},
+      {"id" :13,"timeAdded" : "","messageText": "yup! go for it ! still chepaer than buying any Mac device right! also, you need to enroll anyway if you need to deploy your app to App Store.","fromUser": "CodeMagic"},
+      {"id" :14,"timeAdded" : "","messageText": "Hey asku! welcome to the Apple Developer Program.","fromUser": "Developer.Apple"},
+      {"id" :15,"timeAdded" : "","messageText": "You know you can deploy any number of apps with this developer account.So, whenever you upload your code with us, you'll have to specify the app id and it's certificate.","fromUser": "Developer.Apple"},
+      {"id" :16,"timeAdded" : "","messageText": "What I'm saying is that you may have to create an app ID first here -> https://developer.apple.com/account/resources/identifiers/bundleId/add/","fromUser": "Developer.Apple"},
+      {"id" :17,"timeAdded" : "","messageText": "All good ! I want you to know that I'm a bit shy to the external world. I only talk to my cousin AppStoreConnect. So, if you want to deploy an app, talk to him and he'll talk to me and we can work things out.","fromUser": "Developer.Apple"},
+      {"id" :18,"timeAdded" : "","messageText": "Hey yo! are you going to directly upload your code or use someone else (a third party) to upload your code?","fromUser": "AppStoreConnect"},
+      {"id" :19,"timeAdded" : "","messageText": "I don't have a Mac machine. So, CodeMagic will be doing it for me","fromUser": "ME"},
+      {"id" :20,"timeAdded" : "","messageText": "No worries. Just create an entry in this page, and I'll create a certificate for you. I'll allow anyone with this certificate to make changes on your behalf. So,you just pass down the details and certificate to CodeMagic.","fromUser": "AppStoreConnect"},
+      {"id" :21,"timeAdded" : "","messageText": "Okay. So, this is the place AppConnectStore is talking about. You can enter the details he gave you here, so that I can talk to him as you and send those Code files to him.","fromUser": "CodeMagic"},
+      {"id" :22,"timeAdded" : "","messageText": "That's it. That's all it takes.","fromUser": "CodeMagic"}
+    ]
+}

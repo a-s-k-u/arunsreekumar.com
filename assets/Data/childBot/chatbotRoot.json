@@ -26,7 +26,8 @@
       {"matchPattern":"Australian Holidays 2020","matchType":"static", "matchParam": "","matchVal":"australianHolidays2020","matchGroup":0 },
       {"matchPattern":"photoshop","matchType":"static", "matchParam": "","matchVal":"otherToolsPhotoshop","matchGroup":0 },
       {"matchPattern":"oldMovieReviews","matchType":"static", "matchParam": "","matchVal":"oldMovieReviews","matchGroup":1 },
-      {"matchPattern":"Git Basics","matchType":"static", "matchParam": "","matchVal":"gitBasics","matchGroup":1 }
+      {"matchPattern":"Git Basics","matchType":"static", "matchParam": "","matchVal":"gitBasics","matchGroup":1 },
+      {"matchPattern":"deploy iOS apps without MAC","matchType":"static", "matchParam": "","matchVal":"flutterDeployUsingCodeMagic","matchGroup":1 }
     ],
     "vocabulary":[
     ],
